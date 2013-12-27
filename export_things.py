@@ -12,8 +12,6 @@ from BeautifulSoup import BeautifulSoup
 import os
 import re
 
-myCookies = []
-
 url = "https://www.thingiverse.com/"
 user = "carlosgs"
 
@@ -24,20 +22,8 @@ def makeDirs(path):
         return -1
     return 0
 
-def login():
-    global myCookies
-    form = {'username': 'Bug', 'password': 'bugmenot'}
-    r = requests.post(url + "login", data=form)
-    myCookies = r.cookies
-    if r.status_code != 200:
-        print("ERROR: Login failed. Code: " + str(r.status_code))
-        exit()
-    print("Logged in!")
-    print(myCookies)
-
 def httpGet(page, filename=False, redir=True):
-    global myCookies
-    r = requests.get(page, cookies=myCookies, allow_redirects=redir)
+    r = requests.get(page, allow_redirects=redir)
     if r.status_code != 200:
         print(r.status_code)
         return -1
@@ -50,8 +36,7 @@ def httpGet(page, filename=False, redir=True):
             fd.close()
         return r.history
 
-#login()
-#httpGetText("")
+
 
 thingList = {}
 
