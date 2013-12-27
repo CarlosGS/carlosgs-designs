@@ -1,5 +1,6 @@
 Single piece peg-top! easy to print and customizable!
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 Single piece peg-top! easy to print and customizable!  by carlosgs , published Feb 13, 2013
 
 ![Image](img/2013-02-14_00.07.04_display_large.jpg "Title")

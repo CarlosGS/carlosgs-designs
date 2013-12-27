@@ -1,5 +1,6 @@
 Minimalist Shield for Arduino Printbots
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 Minimalist Shield for Arduino Printbots  by carlosgs , published Apr 30, 2012
 
 ![Image](img/minimalist_shield_display_large.jpg "Title")

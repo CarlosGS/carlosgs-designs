@@ -1,5 +1,6 @@
 Pyramids (easy to print)
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 [Parametric] Pyramids (easy to print)  by carlosgs , published Feb 12, 2013
 
 ![Image](img/Pyramid_isosceles_display_large.jpg "Title")

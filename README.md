@@ -1,6 +1,7 @@
 Things from Carlos Garcia Saura (carlosgs)
 ===============
 
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 [Printable NES controller](Printable-NES-controller/)
 --------
 [![Image](Printable-NES-controller/img/result_preview_card.jpg)](Printable-NES-controller/)  

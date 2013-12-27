@@ -1,5 +1,6 @@
 Linear actuator concept for CNC machines
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 Linear actuator concept for CNC machines  by carlosgs , published Jan 28, 2013
 
 ![Image](img/2013-01-21_00.58.45_display_large.jpg "Title")

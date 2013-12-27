@@ -1,5 +1,6 @@
 Trisquel
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 Trisquel  by carlosgs , published Apr 6, 2012
 
 ![Image](img/2012-03-27_12.42.13_display_large.jpg "Title")

@@ -17,6 +17,10 @@ import re
 user = "carlosgs" # User from Thingiverse (as in the profile URL)
 authorName = "Carlos Garcia Saura (carlosgs)" # Any string is OK
 authorDescription = "<http://carlosgs.es/>"
+readmeHeader = "**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  \n"
+
+
+
 redownloadExistingFiles = False # This saves time when re-running the script
 
 url = "https://www.thingiverse.com/"
@@ -69,7 +73,7 @@ while 1: # Iterate over all the pages of things
         
         print("\nProcesando " + id + " : " + title)
         
-        folder = title.replace(' ', '-').replace('(', '').replace(')', '')
+        folder = title.replace(' ', '-').replace('(', '').replace(')', '').replace('*', '')
         previewImgUrl = str(thing.findAll("img", { "class":"thing-img" })[0]["src"]) # Get the link for the preview image
         previewImgName = previewImgUrl.split('/')[-1]
         previewImgFile = folder + "/img/" + previewImgName
@@ -166,6 +170,7 @@ while 1: # Iterate over all the pages of things
         with open(folder + "/README.md", 'w') as fd: # Generate the README file for the thing
             fd.write(title)
             fd.write("\n===============\n")
+            fd.write(readmeHeader)
             fd.write(header)
             fd.write('\n\n![Image](img/' + images[0] + ' "Title")\n\n')
             fd.write("Description\n--------\n")
@@ -208,6 +213,8 @@ while 1: # Iterate over all the pages of things
 with open("README.md", 'w') as fd: # Generate the global README file with the list of the things
     fd.write("Things from " + authorName)
     fd.write("\n===============\n\n")
+    
+    fd.write(readmeHeader)
     
     for title in thingList.keys():
         thing = thingList[title]

@@ -1,5 +1,6 @@
 Printable caterpillar track
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 Printable caterpillar track  by carlosgs , published Dec 8, 2012
 
 ![Image](img/2012-12-08_18.36.07_display_large.jpg "Title")

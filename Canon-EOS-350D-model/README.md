@@ -1,5 +1,6 @@
 Canon EOS 350D model
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 Canon EOS 350D model  by carlosgs , published Jun 21, 2012
 
 ![Image](img/Canon350DbasicbyALX_fixed_display_large.jpg "Title")

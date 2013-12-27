@@ -1,5 +1,6 @@
 ArduSkyBot v2.0
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 ArduSkyBot v2.0 [Git repo]  by carlosgs , published Sep 29, 2012
 
 ![Image](img/IMG_1227_display_large.jpg "Title")

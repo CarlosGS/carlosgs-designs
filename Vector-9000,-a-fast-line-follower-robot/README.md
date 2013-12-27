@@ -1,5 +1,6 @@
 Vector-9000, a fast line follower robot
 ===============
+**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
 Vector-9000, a fast line follower robot  by carlosgs , published Mar 23, 2013
 
 ![Image](img/Vector-9000_front_display_large.jpg "Title")
