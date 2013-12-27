@@ -206,7 +206,7 @@ while 1: # Iterate over all the pages of things
 
 
 with open("README.md", 'w') as fd: # Generate the global README file with the list of the things
-    fd.write("Things from " + user)
+    fd.write("Things from " + authorName)
     fd.write("\n===============\n\n")
     
     for title in thingList.keys():

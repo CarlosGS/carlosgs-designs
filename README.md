@@ -1,4 +1,4 @@
-Things from carlosgs
+Things from Carlos Garcia Saura (carlosgs)
 ===============
 
 [Printable NES controller](Printable-NES-controller/)
