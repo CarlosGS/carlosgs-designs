@@ -151,10 +151,10 @@ while 1:
             for path in files.keys():
                 file = files[path]
                 fd.write('![Image](img/' + file["preview"] + ' "Title")\n')
-                fd.write('[ ' + file["name"] + '](' + file["name"] + ' "Title")  \n\n')
+                fd.write(' [ ' + file["name"] + '](' + file["name"] + ' "Title")  \n\n')
             
             fd.write("\n\nPictures\n--------\n")
-            for image in images[1:]:
+            for image in images[2:]:
                 fd.write('![Image](img/' + image + ' "Title")\n')
             
             
@@ -171,8 +171,8 @@ while 1:
         thingList[title]["img"] = previewImgFile
         thingList[title]["description"] = description
         thingCount += 1
-        if thingCount > 2: break
-    if thingCount > 2: break
+        #if thingCount > 2: break
+    #if thingCount > 2: break
     pgNum += 1
 
 
@@ -184,8 +184,8 @@ with open("README.md", 'w') as fd:
         thing = thingList[title]
         
         fd.write(thing["title"] + "\n--------\n")
-        fd.write('[' + thing["title"] + '](' + thing["folder"] + ' "Title")  \n')
         fd.write('![Image](' + thing["img"] + ' "Title")\n\n  ')
+        fd.write('[' + thing["title"] + '](' + thing["folder"] + ' "Title")  \n')
     
     fd.write("\nAuthor: " + user + "\n--------\n")
     fd.write("\n\nLicense\n--------\n")
