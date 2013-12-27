@@ -62,7 +62,7 @@ actuator , cnc , linear , Nema17 , plastic_valley , stepper , threaded_rod , UAM
 
 Author: Carlos Garcia Saura (carlosgs)
 --------
-
+<http://carlosgs.es/>  
 
 License
 --------

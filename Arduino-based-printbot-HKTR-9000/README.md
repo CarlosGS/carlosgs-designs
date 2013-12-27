@@ -68,7 +68,7 @@ Arduino , CRM , kicad , pcb , pin_header , plastic_valley , printbot , shield , 
 
 Author: Carlos Garcia Saura (carlosgs)
 --------
-
+<http://carlosgs.es/>  
 
 License
 --------

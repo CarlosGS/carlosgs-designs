@@ -16,6 +16,8 @@ import re
 # EDIT THIS!
 user = "carlosgs" # User from Thingiverse (as in the profile URL)
 authorName = "Carlos Garcia Saura (carlosgs)" # Any string is OK
+authorDescription = "<http://carlosgs.es/>"
+redownloadExistingFiles = False # This saves time when re-running the script
 
 url = "https://www.thingiverse.com/"
 
@@ -29,6 +31,8 @@ def makeDirs(path):
 
 # Helper function to perform the required HTTP requests
 def httpGet(page, filename=False, redir=True):
+    if filename and not redownloadExistingFiles and os.path.exists(filename):
+        return [] # Simulate download OK for existing file
     r = requests.get(page, allow_redirects=redir)
     if r.status_code != 200:
         print(r.status_code)
@@ -183,7 +187,8 @@ while 1: # Iterate over all the pages of things
             fd.write(tags + "  \n\n")
             
             fd.write("\n\nAuthor: " + authorName + "\n--------\n")
-            fd.write("\n\nLicense\n--------\n")
+            fd.write(authorDescription)
+            fd.write("  \n\nLicense\n--------\n")
             fd.write(license + "  \n\n")
             fd.close()
         
@@ -212,7 +217,8 @@ with open("README.md", 'w') as fd: # Generate the global README file with the li
         fd.write('[![Image](' + thing["img"] + ')](' + thing["folder"] + '/)  \n\n')
     
     fd.write("\nAuthor: " + authorName + "\n--------\n")
-    fd.write("\n\nLicense\n--------\n")
+    fd.write(authorDescription)
+    fd.write("  \n\nLicense\n--------\n")
     fd.write("CC-BY-SA (unless other specified)\n\n")
     fd.close()
     fd.close()
