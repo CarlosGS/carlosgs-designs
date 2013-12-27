@@ -3,7 +3,7 @@ Things from carlosgs
 
 Printable NES controller
 --------
-![Image](Printable-NES-controller/img/result_preview_card.jpg "Title")
+[![Image](Printable-NES-controller/img/result_preview_card.jpg "Title")](Printable-NES-controller)  
 
   [Printable NES controller](Printable-NES-controller "Title")  
 Unicorn keychain
