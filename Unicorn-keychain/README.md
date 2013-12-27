@@ -1,5 +1,6 @@
 Unicorn keychain
 ===============
+Unicorn keychain  by carlosgs , published Mar 8, 2012
 
 ![Image](img/unicorn_display_large.jpg "Title")
 
@@ -15,26 +16,33 @@ Download and print.
 
 Files
 --------
-![Image](img/unicorn_preview_tinycard.jpg "Title")
- [ unicorn.stl](unicorn.stl "Title")  
+[![Image](img/unicorn_preview_tinycard.jpg)](unicorn.stl)
+ [ unicorn.stl](unicorn.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ unicorn.scad](unicorn.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](unicorn.scad)
+ [ unicorn.scad](unicorn.scad)  
 
 
 
 Pictures
 --------
+![Image](img/2012-03-08_12.25.44_display_large.jpg "Title")
 ![Image](img/2012-03-08_12.10.49_display_large.jpg "Title")
 ![Image](img/2012-03-08_11.57.38_display_large.jpg "Title")
 ![Image](img/2012-05-13_22.28.33_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+keychain , plastic_valley , UAM , unicorn  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Unicorn keychain by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

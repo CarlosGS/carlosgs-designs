@@ -1,5 +1,6 @@
 Cyclone PCB Factory v0.9.7
 ===============
+Cyclone PCB Factory v0.9.7 [added video summary]  by carlosgs , published Feb 11, 2013
 
 ![Image](img/Cyclone_built_v0.9.7_display_large.jpg "Title")
 
@@ -103,13 +104,14 @@ Please note I have taken screenshots of the post that are on the closed G+ Panda
 
 Files
 --------
-![Image](img/Cyclone_preview_tinycard.jpg "Title")
- [ Cyclone.stl](Cyclone.stl "Title")  
+[![Image](img/Cyclone_preview_tinycard.jpg)](Cyclone.stl)
+ [ Cyclone.stl](Cyclone.stl)  
 
 
 
 Pictures
 --------
+![Image](img/Cyclone_display_large.jpg "Title")
 ![Image](img/Cyclone_render_v0.9.7_display_large.jpg "Title")
 ![Image](img/2013-05-30_16.23.08_display_large.jpg "Title")
 ![Image](img/2013-05-23_23.07.37_display_large.jpg "Title")
@@ -148,11 +150,17 @@ Pictures
 ![Image](img/2013-03-29_20.05.10_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+CNC , Cyclone , Mill , PCB , plastic_valley , printable , tool , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Cyclone PCB Factory v0.9.7 [added video summary] by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

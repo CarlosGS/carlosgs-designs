@@ -1,5 +1,6 @@
 SceneBeta logo
 ===============
+SceneBeta logo  by carlosgs , published May 5, 2012
 
 ![Image](img/logo_SB_display_large.jpg "Title")
 
@@ -14,20 +15,27 @@ Download &amp; print
 
 Files
 --------
-![Image](img/logo_SB_preview_tinycard.jpg "Title")
- [ logo_SB.stl](logo_SB.stl "Title")  
+[![Image](img/logo_SB_preview_tinycard.jpg)](logo_SB.stl)
+ [ logo_SB.stl](logo_SB.stl)  
 
 
 
 Pictures
 --------
+![Image](img/sb3dlogo_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+None  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+SceneBeta logo by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

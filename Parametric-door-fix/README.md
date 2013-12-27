@@ -1,5 +1,6 @@
 Parametric door fix
 ===============
+Parametric door fix  by carlosgs , published Feb 2, 2013
 
 ![Image](img/2013-02-02_16.11.24_display_large.jpg "Title")
 
@@ -18,25 +19,32 @@ In the pictures you can see I put some white glue to make sure the piece doesn't
 
 Files
 --------
-![Image](img/door_fix_preview_tinycard.jpg "Title")
- [ door_fix.stl](door_fix.stl "Title")  
+[![Image](img/door_fix_preview_tinycard.jpg)](door_fix.stl)
+ [ door_fix.stl](door_fix.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ door_fix.zip](door_fix.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](door_fix.zip)
+ [ door_fix.zip](door_fix.zip)  
 
 
 
 Pictures
 --------
+![Image](img/2013-02-02_16.11.36_display_large.jpg "Title")
 ![Image](img/2013-02-02_16.11.44_display_large.jpg "Title")
 ![Image](img/door_fix_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+door , fix , openscad , parametric , plastic_valley , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Parametric door fix by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

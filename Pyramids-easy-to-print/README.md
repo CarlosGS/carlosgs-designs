@@ -1,5 +1,6 @@
 Pyramids (easy to print)
 ===============
+[Parametric] Pyramids (easy to print)  by carlosgs , published Feb 12, 2013
 
 ![Image](img/Pyramid_isosceles_display_large.jpg "Title")
 
@@ -20,36 +21,43 @@ Customize, print and enjoy the useful pyramids :-)
 
 Files
 --------
-![Image](img/Pyramid_equilateral_preview_tinycard.jpg "Title")
- [ Pyramid_equilateral.stl](Pyramid_equilateral.stl "Title")  
+[![Image](img/Pyramid_equilateral_preview_tinycard.jpg)](Pyramid_equilateral.stl)
+ [ Pyramid_equilateral.stl](Pyramid_equilateral.stl)  
 
-![Image](img/Pyramid_equilateral_x6_preview_tinycard.jpg "Title")
- [ Pyramid_equilateral_x6.stl](Pyramid_equilateral_x6.stl "Title")  
+[![Image](img/Pyramid_equilateral_x6_preview_tinycard.jpg)](Pyramid_equilateral_x6.stl)
+ [ Pyramid_equilateral_x6.stl](Pyramid_equilateral_x6.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Pyramid_scad.zip](Pyramid_scad.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Pyramid_scad.zip)
+ [ Pyramid_scad.zip](Pyramid_scad.zip)  
 
-![Image](img/Pyramid_isosceles_preview_tinycard.jpg "Title")
- [ Pyramid_isosceles.stl](Pyramid_isosceles.stl "Title")  
+[![Image](img/Pyramid_isosceles_preview_tinycard.jpg)](Pyramid_isosceles.stl)
+ [ Pyramid_isosceles.stl](Pyramid_isosceles.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Parametric_pyramid.scad](Parametric_pyramid.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Parametric_pyramid.scad)
+ [ Parametric_pyramid.scad](Parametric_pyramid.scad)  
 
 
 
 Pictures
 --------
+![Image](img/2013-02-12_22.10.58_display_large.jpg "Title")
 ![Image](img/Pyramid_equilateral_display_large.jpg "Title")
 ![Image](img/2013-02-12_23.39.58_display_large.jpg "Title")
 ![Image](img/Pyramid_equilateral_x6_display_large.jpg "Title")
 ![Image](img/2013-02-13_00.31.02_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+3D , customizer , customizer_challenge , parametric , PLA , plastic_valley , pyramid , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+[Parametric] Pyramids (easy to print) by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

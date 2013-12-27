@@ -1,5 +1,6 @@
 Printrbot Spool Holder
 ===============
+Printrbot Spool Holder  by carlosgs , published Mar 25, 2013
 
 ![Image](img/20130213_134317_display_large.jpg "Title")
 
@@ -14,24 +15,31 @@ You may need to use the Printrbot rods end hat (http://www.thingiverse.com/thing
 
 Files
 --------
-![Image](img/spool_holder_preview_tinycard.jpg "Title")
- [ spool_holder.stl](spool_holder.stl "Title")  
+[![Image](img/spool_holder_preview_tinycard.jpg)](spool_holder.stl)
+ [ spool_holder.stl](spool_holder.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Printrbot_Spool_Holder_scad.zip](Printrbot_Spool_Holder_scad.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Printrbot_Spool_Holder_scad.zip)
+ [ Printrbot_Spool_Holder_scad.zip](Printrbot_Spool_Holder_scad.zip)  
 
 
 
 Pictures
 --------
+![Image](img/2013-02-12_17.19.11_display_large.jpg "Title")
 ![Image](img/spool_holder_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+filament , holder , Printrbot , spool , spool_holder  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Printrbot Spool Holder by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

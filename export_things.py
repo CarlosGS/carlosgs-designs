@@ -127,6 +127,7 @@ while 1: # Iterate over all the pages of things
         if len(header) < 2: header = "None"
         
         
+        
         files = {}
         for file in res_xml.findAll("div", { "class":"thing-file" }): # Parse the files and download them
             fileUrl = url + str(file.a["href"])
@@ -206,9 +207,9 @@ with open("README.md", 'w') as fd: # Generate the global README file with the li
     for title in thingList.keys():
         thing = thingList[title]
         
-        fd.write(thing["title"] + "\n--------\n")
-        fd.write('[![Image](' + thing["img"] + ')](' + thing["folder"] + '/)  \n')
-        fd.write('[' + thing["title"] + '](' + thing["folder"] + '/)  \n\n\n')
+        fd.write('[' + thing["title"] + '](' + thing["folder"] + '/)\n')
+        fd.write("--------\n")
+        fd.write('[![Image](' + thing["img"] + ')](' + thing["folder"] + '/)  \n\n')
     
     fd.write("\nAuthor: " + authorName + "\n--------\n")
     fd.write("\n\nLicense\n--------\n")

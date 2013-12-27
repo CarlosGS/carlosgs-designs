@@ -1,5 +1,6 @@
 ArduSkyBot v2.0
 ===============
+ArduSkyBot v2.0 [Git repo]  by carlosgs , published Sep 29, 2012
 
 ![Image](img/IMG_1227_display_large.jpg "Title")
 
@@ -41,21 +42,28 @@ More info (slides and testing code) here: <a href="http://carlosgs.es/2012-summe
 
 Files
 --------
-![Image](img/Servo-wheel-4-arm-horn_preview_tinycard.jpg "Title")
- [ Servo-wheel-4-arm-horn.stl](Servo-wheel-4-arm-horn.stl "Title")  
+[![Image](img/Servo-wheel-4-arm-horn_preview_tinycard.jpg)](Servo-wheel-4-arm-horn.stl)
+ [ Servo-wheel-4-arm-horn.stl](Servo-wheel-4-arm-horn.stl)  
 
 
 
 Pictures
 --------
+![Image](img/Servo-wheel-4-arm-horn_display_large.jpg "Title")
 ![Image](img/IMG_1098_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+arduino , button , distance , LDR , light , pcb , plastic_valley , printbot , printshield , robot , sensor , shield , UAM , ultrasonic  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+ArduSkyBot v2.0 [Git repo] by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

@@ -1,5 +1,6 @@
 Linear actuator concept for CNC machines
 ===============
+Linear actuator concept for CNC machines  by carlosgs , published Jan 28, 2013
 
 ![Image](img/2013-01-21_00.58.45_display_large.jpg "Title")
 
@@ -17,34 +18,35 @@ This object would require some redesign to fit your application. I have uploaded
 
 Files
 --------
-![Image](img/Y_motor_gear_preview_tinycard.jpg "Title")
- [ Y_motor_gear.stl](Y_motor_gear.stl "Title")  
+[![Image](img/Y_motor_gear_preview_tinycard.jpg)](Y_motor_gear.stl)
+ [ Y_motor_gear.stl](Y_motor_gear.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Y_motor_stand.scad](Y_motor_stand.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Y_motor_stand.scad)
+ [ Y_motor_stand.scad](Y_motor_stand.scad)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ obiscad.zip](obiscad.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](obiscad.zip)
+ [ obiscad.zip](obiscad.zip)  
 
-![Image](img/Y_motor_stand_preview_tinycard.jpg "Title")
- [ Y_motor_stand.stl](Y_motor_stand.stl "Title")  
+[![Image](img/Y_motor_stand_preview_tinycard.jpg)](Y_motor_stand.stl)
+ [ Y_motor_stand.stl](Y_motor_stand.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Y_motor_gear.scad](Y_motor_gear.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Y_motor_gear.scad)
+ [ Y_motor_gear.scad](Y_motor_gear.scad)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Y_rod_floating_gear.scad](Y_rod_floating_gear.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Y_rod_floating_gear.scad)
+ [ Y_rod_floating_gear.scad](Y_rod_floating_gear.scad)  
 
-![Image](img/Y_bearing_idler_preview_tinycard.jpg "Title")
- [ Y_bearing_idler.stl](Y_bearing_idler.stl "Title")  
+[![Image](img/Y_bearing_idler_preview_tinycard.jpg)](Y_bearing_idler.stl)
+ [ Y_bearing_idler.stl](Y_bearing_idler.stl)  
 
-![Image](img/Y_rod_floating_gear_preview_tinycard.jpg "Title")
- [ Y_rod_floating_gear.stl](Y_rod_floating_gear.stl "Title")  
+[![Image](img/Y_rod_floating_gear_preview_tinycard.jpg)](Y_rod_floating_gear.stl)
+ [ Y_rod_floating_gear.stl](Y_rod_floating_gear.stl)  
 
 
 
 Pictures
 --------
+![Image](img/Y_motor_gear_display_large.jpg "Title")
 ![Image](img/Y_rod_floating_gear_display_large.jpg "Title")
 ![Image](img/2013-01-28_18.46.28_display_large.jpg "Title")
 ![Image](img/2013-01-28_18.46.45_display_large.jpg "Title")
@@ -52,11 +54,17 @@ Pictures
 ![Image](img/Y_motor_stand_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+actuator , cnc , linear , Nema17 , plastic_valley , stepper , threaded_rod , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Linear actuator concept for CNC machines by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

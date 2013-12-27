@@ -1,5 +1,6 @@
 Trisquel
 ===============
+Trisquel  by carlosgs , published Apr 6, 2012
 
 ![Image](img/2012-03-27_12.42.13_display_large.jpg "Title")
 
@@ -13,32 +14,39 @@ I designed this in Sketchup (sorry..) as a request from a friend. If someone kno
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ trisquel_circ_3d.skp](trisquel_circ_3d.skp "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](trisquel_circ_3d.skp)
+ [ trisquel_circ_3d.skp](trisquel_circ_3d.skp)  
 
-![Image](img/trisquelcirclogo3d_fixed_preview_tinycard.jpg "Title")
- [ trisquelcirclogo3d_fixed.stl](trisquelcirclogo3d_fixed.stl "Title")  
+[![Image](img/trisquelcirclogo3d_fixed_preview_tinycard.jpg)](trisquelcirclogo3d_fixed.stl)
+ [ trisquelcirclogo3d_fixed.stl](trisquelcirclogo3d_fixed.stl)  
 
-![Image](img/trisquel_3d_preview_tinycard.jpg "Title")
- [ trisquel_3d.stl](trisquel_3d.stl "Title")  
+[![Image](img/trisquel_3d_preview_tinycard.jpg)](trisquel_3d.stl)
+ [ trisquel_3d.stl](trisquel_3d.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ trisquel_3d.skp](trisquel_3d.skp "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](trisquel_3d.skp)
+ [ trisquel_3d.skp](trisquel_3d.skp)  
 
 
 
 Pictures
 --------
+![Image](img/2012-03-27_11.41.43_display_large.jpg "Title")
 ![Image](img/trisquelcirclogo3d_fixed_display_large.jpg "Title")
 ![Image](img/simbolo-celta-trisquel_display_large.jpg "Title")
 ![Image](img/trisquel_3d_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+23 , 3D , celtic , CGS , plastic_valley , sketchup , trisquel , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Trisquel by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

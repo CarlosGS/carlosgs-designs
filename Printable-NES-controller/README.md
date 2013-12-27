@@ -1,5 +1,6 @@
 Printable NES controller
 ===============
+Printable NES controller  by carlosgs , published May 5, 2012
 
 ![Image](img/controller3D_fixed_display_large.jpg "Title")
 
@@ -18,31 +19,32 @@ Design made in Sketchup. Again, I'm sorry for that. Summer is near and I will le
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ buttons_3D.skp](buttons_3D.skp "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](buttons_3D.skp)
+ [ buttons_3D.skp](buttons_3D.skp)  
 
-![Image](img/start_preview_tinycard.jpg "Title")
- [ start.stl](start.stl "Title")  
+[![Image](img/start_preview_tinycard.jpg)](start.stl)
+ [ start.stl](start.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ controller_3D.skp](controller_3D.skp "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](controller_3D.skp)
+ [ controller_3D.skp](controller_3D.skp)  
 
-![Image](img/cross_upside_down_preview_tinycard.jpg "Title")
- [ cross_upside_down.stl](cross_upside_down.stl "Title")  
+[![Image](img/cross_upside_down_preview_tinycard.jpg)](cross_upside_down.stl)
+ [ cross_upside_down.stl](cross_upside_down.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ NES_controller_22549.zip](NES_controller_22549.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](NES_controller_22549.zip)
+ [ NES_controller_22549.zip](NES_controller_22549.zip)  
 
-![Image](img/controller3D_fixed_preview_tinycard.jpg "Title")
- [ controller3D_fixed.stl](controller3D_fixed.stl "Title")  
+[![Image](img/controller3D_fixed_preview_tinycard.jpg)](controller3D_fixed.stl)
+ [ controller3D_fixed.stl](controller3D_fixed.stl)  
 
-![Image](img/A_preview_tinycard.jpg "Title")
- [ A.stl](A.stl "Title")  
+[![Image](img/A_preview_tinycard.jpg)](A.stl)
+ [ A.stl](A.stl)  
 
 
 
 Pictures
 --------
+![Image](img/start_display_large.jpg "Title")
 ![Image](img/NES-controller_display_large.jpg "Title")
 ![Image](img/test_display_large.jpg "Title")
 ![Image](img/result_display_large.jpg "Title")
@@ -51,11 +53,17 @@ Pictures
 ![Image](img/NES_sticker_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+3D , buttons , controller , Faberdashery , gamepad , NES , Nintendo , PLA , sketchup  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Printable NES controller by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

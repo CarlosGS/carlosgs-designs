@@ -1,5 +1,6 @@
 Printshield v1.0 for Arduino printbots
 ===============
+Printshield v1.0 for Arduino printbots [Git repo]  by carlosgs , published Jul 18, 2012
 
 ![Image](img/Printshield_funcionando_display_large.jpg "Title")
 
@@ -43,13 +44,14 @@ Designed with Kicad<br />
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ printshield-1.0-Back_array.pdf](printshield-1.0-Back_array.pdf "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](printshield-1.0-Back_array.pdf)
+ [ printshield-1.0-Back_array.pdf](printshield-1.0-Back_array.pdf)  
 
 
 
 Pictures
 --------
+![Image](img/Printshield_specs_eng_display_large.jpg "Title")
 ![Image](img/soldaduras_placa_printshield_display_large.jpg "Title")
 ![Image](img/Printshield_front-LDR_detail_no_ultrasonic_display_large.jpg "Title")
 ![Image](img/Printshield_top-LDR_detail_no_ultrasonic_display_large.jpg "Title")
@@ -57,11 +59,17 @@ Pictures
 ![Image](img/Printshield_lateral-LDR_detail_with_ultrasonic_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+arduino , button , LDR , light , line , pcb , plastic_valley , printbot , robot , sensor , shield , UAM , ultrasonic  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Printshield v1.0 for Arduino printbots [Git repo] by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

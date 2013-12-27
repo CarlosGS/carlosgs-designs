@@ -1,5 +1,6 @@
 Arduino based printbot HKTR-9000
 ===============
+Arduino based printbot HKTR-9000  by carlosgs , published May 23, 2012
 
 ![Image](img/2012-05-19_14.26.33_display_large.jpg "Title")
 
@@ -35,22 +36,23 @@ Robotics introductory workshop at EPS-UAM (Madrid, Spain): <a href="http://www.y
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ CNY70_board.zip](CNY70_board.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](CNY70_board.zip)
+ [ CNY70_board.zip](CNY70_board.zip)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Shield_CRM_L298_v1.1.zip](Shield_CRM_L298_v1.1.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Shield_CRM_L298_v1.1.zip)
+ [ Shield_CRM_L298_v1.1.zip](Shield_CRM_L298_v1.1.zip)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Chasis_source.zip](Chasis_source.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Chasis_source.zip)
+ [ Chasis_source.zip](Chasis_source.zip)  
 
-![Image](img/Chasis_preview_tinycard.jpg "Title")
- [ Chasis.stl](Chasis.stl "Title")  
+[![Image](img/Chasis_preview_tinycard.jpg)](Chasis.stl)
+ [ Chasis.stl](Chasis.stl)  
 
 
 
 Pictures
 --------
+![Image](img/Chasis_display_large.jpg "Title")
 ![Image](img/2012-05-19_13.06.18_display_large.jpg "Title")
 ![Image](img/2012-05-21_18.28.06_display_large.jpg "Title")
 ![Image](img/2012-05-17_18.08.01_display_large.jpg "Title")
@@ -58,11 +60,17 @@ Pictures
 ![Image](img/2012-05-19_13.47.53_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+Arduino , CRM , kicad , pcb , pin_header , plastic_valley , printbot , shield , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Arduino based printbot HKTR-9000 by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

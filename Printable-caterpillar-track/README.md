@@ -1,5 +1,6 @@
 Printable caterpillar track
 ===============
+Printable caterpillar track  by carlosgs , published Dec 8, 2012
 
 ![Image](img/2012-12-08_18.36.07_display_large.jpg "Title")
 
@@ -33,25 +34,26 @@ These settings will print the track as a continuous, single-walled spiral, which
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Caterpillar_track_1.1.zip](Caterpillar_track_1.1.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Caterpillar_track_1.1.zip)
+ [ Caterpillar_track_1.1.zip](Caterpillar_track_1.1.zip)  
 
-![Image](img/chassis_preview_tinycard.jpg "Title")
- [ chassis.stl](chassis.stl "Title")  
+[![Image](img/chassis_preview_tinycard.jpg)](chassis.stl)
+ [ chassis.stl](chassis.stl)  
 
-![Image](img/wheel_1.1_preview_tinycard.jpg "Title")
- [ wheel_1.1.stl](wheel_1.1.stl "Title")  
+[![Image](img/wheel_1.1_preview_tinycard.jpg)](wheel_1.1.stl)
+ [ wheel_1.1.stl](wheel_1.1.stl)  
 
-![Image](img/Caterpillar_track_1.1_preview_tinycard.jpg "Title")
- [ Caterpillar_track_1.1.stl](Caterpillar_track_1.1.stl "Title")  
+[![Image](img/Caterpillar_track_1.1_preview_tinycard.jpg)](Caterpillar_track_1.1.stl)
+ [ Caterpillar_track_1.1.stl](Caterpillar_track_1.1.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Caterpillar_track_1.2.zip](Caterpillar_track_1.2.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Caterpillar_track_1.2.zip)
+ [ Caterpillar_track_1.2.zip](Caterpillar_track_1.2.zip)  
 
 
 
 Pictures
 --------
+![Image](img/2012-12-09_00.33.16_display_large.jpg "Title")
 ![Image](img/2012-12-09_00.34.16_display_large.jpg "Title")
 ![Image](img/2012-12-09_00.34.29_display_large.jpg "Title")
 ![Image](img/2012-12-09_00.34.42_display_large.jpg "Title")
@@ -66,11 +68,17 @@ Pictures
 ![Image](img/wheel_1.1_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+Caterpillar , plastic_valley , printbot , robot , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Printable caterpillar track by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

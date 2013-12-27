@@ -1,5 +1,6 @@
 Vector-9000, a fast line follower robot
 ===============
+Vector-9000, a fast line follower robot  by carlosgs , published Mar 23, 2013
 
 ![Image](img/Vector-9000_front_display_large.jpg "Title")
 
@@ -23,46 +24,47 @@ Tech specs:<br />
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Chasis.scad](Chasis.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Chasis.scad)
+ [ Chasis.scad](Chasis.scad)  
 
-![Image](img/Chasis_preview_tinycard.jpg "Title")
- [ Chasis.stl](Chasis.stl "Title")  
+[![Image](img/Chasis_preview_tinycard.jpg)](Chasis.stl)
+ [ Chasis.stl](Chasis.stl)  
 
-![Image](img/CubiertaCarcasa_preview_tinycard.jpg "Title")
- [ CubiertaCarcasa.stl](CubiertaCarcasa.stl "Title")  
+[![Image](img/CubiertaCarcasa_preview_tinycard.jpg)](CubiertaCarcasa.stl)
+ [ CubiertaCarcasa.stl](CubiertaCarcasa.stl)  
 
-![Image](img/NuevaCover_preview_tinycard.jpg "Title")
- [ NuevaCover.stl](NuevaCover.stl "Title")  
+[![Image](img/NuevaCover_preview_tinycard.jpg)](NuevaCover.stl)
+ [ NuevaCover.stl](NuevaCover.stl)  
 
-![Image](img/CubiertaPololu_preview_tinycard.jpg "Title")
- [ CubiertaPololu.stl](CubiertaPololu.stl "Title")  
+[![Image](img/CubiertaPololu_preview_tinycard.jpg)](CubiertaPololu.stl)
+ [ CubiertaPololu.stl](CubiertaPololu.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ CubiertaPololu.scad](CubiertaPololu.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](CubiertaPololu.scad)
+ [ CubiertaPololu.scad](CubiertaPololu.scad)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ LineSensorV2_new.scad](LineSensorV2_new.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](LineSensorV2_new.scad)
+ [ LineSensorV2_new.scad](LineSensorV2_new.scad)  
 
-![Image](img/TercerApoyo_preview_tinycard.jpg "Title")
- [ TercerApoyo.stl](TercerApoyo.stl "Title")  
+[![Image](img/TercerApoyo_preview_tinycard.jpg)](TercerApoyo.stl)
+ [ TercerApoyo.stl](TercerApoyo.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ TercerApoyo.scad](TercerApoyo.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](TercerApoyo.scad)
+ [ TercerApoyo.scad](TercerApoyo.scad)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ CubiertaCarcasa.scad](CubiertaCarcasa.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](CubiertaCarcasa.scad)
+ [ CubiertaCarcasa.scad](CubiertaCarcasa.scad)  
 
-![Image](img/SoporteLDR_preview_tinycard.jpg "Title")
- [ SoporteLDR.stl](SoporteLDR.stl "Title")  
+[![Image](img/SoporteLDR_preview_tinycard.jpg)](SoporteLDR.stl)
+ [ SoporteLDR.stl](SoporteLDR.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ SoporteLDR.scad](SoporteLDR.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](SoporteLDR.scad)
+ [ SoporteLDR.scad](SoporteLDR.scad)  
 
 
 
 Pictures
 --------
+![Image](img/Vector-9000_bottom_display_large.jpg "Title")
 ![Image](img/2013-02-26_22.16.50_display_large.jpg "Title")
 ![Image](img/2013-02-26_22.17.25_display_large.jpg "Title")
 ![Image](img/2013-02-27_16.29.50_display_large.jpg "Title")
@@ -78,11 +80,17 @@ Pictures
 ![Image](img/SoporteLDR_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+ARDUINO , CRM , PLASTIC_VALLEY , PRINTBOT , SHIELD , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Vector-9000, a fast line follower robot by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

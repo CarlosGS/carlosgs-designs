@@ -1,5 +1,6 @@
 Hot-end fan mount with dual air flow
 ===============
+Hot-end fan mount with dual air flow  by carlosgs , published Apr 6, 2012
 
 ![Image](img/soporteventiladorlargo_fixed_display_large.jpg "Title")
 
@@ -23,16 +24,17 @@ I have printed lots of things with this dual airflow system and it is working re
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ soporte_ventilador.skp](soporte_ventilador.skp "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](soporte_ventilador.skp)
+ [ soporte_ventilador.skp](soporte_ventilador.skp)  
 
-![Image](img/soporteventiladorlargo_fixed_preview_tinycard.jpg "Title")
- [ soporteventiladorlargo_fixed.stl](soporteventiladorlargo_fixed.stl "Title")  
+[![Image](img/soporteventiladorlargo_fixed_preview_tinycard.jpg)](soporteventiladorlargo_fixed.stl)
+ [ soporteventiladorlargo_fixed.stl](soporteventiladorlargo_fixed.stl)  
 
 
 
 Pictures
 --------
+![Image](img/2012-04-05_23.30.18_display_large.jpg "Title")
 ![Image](img/2012-04-05_23.29.14_display_large.jpg "Title")
 ![Image](img/2012-04-05_21.02.25_display_large.jpg "Title")
 ![Image](img/2012-04-05_21.17.35_display_large.jpg "Title")
@@ -40,11 +42,17 @@ Pictures
 ![Image](img/2012-04-05_21.27.10_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+3D , cooling , dual , fan , j-head , plastic_valley , sketchup , two-way , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Hot-end fan mount with dual air flow by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

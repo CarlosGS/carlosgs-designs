@@ -1,5 +1,6 @@
 Customizable Lithophane
 ===============
+[With polygonal frame] Customizable Lithophane  by carlosgs , published May 2, 2013
 
 ![Image](img/2013-05-02_19.14.38_display_large.jpg "Title")
 
@@ -39,6 +40,12 @@ Files
 Pictures
 --------
 ![Image](img/oshw_lithophane_display_large.jpg "Title")
+
+
+Tags
+--------
+customizer , lithopane , lithophane , polygonal  
+
 
 
 Author: Carlos Garcia Saura (carlosgs)

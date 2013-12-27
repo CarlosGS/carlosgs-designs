@@ -1,5 +1,6 @@
 ArduSkyBot v1.0, an open source educational printbot
 ===============
+ArduSkyBot v1.0, an open source educational printbot [Git repo]  by carlosgs , published Jul 18, 2012
 
 ![Image](img/ArduSkyBot_hand_display_large.jpg "Title")
 
@@ -36,13 +37,14 @@ Lots of ideas taken from:<br />
 
 Files
 --------
-![Image](img/MiniSkyBot_Servo-wheel-4-arm-horn_preview_tinycard.jpg "Title")
- [ MiniSkyBot_Servo-wheel-4-arm-horn.stl](MiniSkyBot_Servo-wheel-4-arm-horn.stl "Title")  
+[![Image](img/MiniSkyBot_Servo-wheel-4-arm-horn_preview_tinycard.jpg)](MiniSkyBot_Servo-wheel-4-arm-horn.stl)
+ [ MiniSkyBot_Servo-wheel-4-arm-horn.stl](MiniSkyBot_Servo-wheel-4-arm-horn.stl)  
 
 
 
 Pictures
 --------
+![Image](img/ArduSkyBot_display_large.jpg "Title")
 ![Image](img/ArduSkyBot_top_display_large.jpg "Title")
 ![Image](img/ArduSkyBot_bottom_display_large.jpg "Title")
 ![Image](img/ArduSkyBot_back_display_large.jpg "Title")
@@ -53,11 +55,17 @@ Pictures
 ![Image](img/ArduSkyBot_music_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+arduino , button , distance , LDR , light , pcb , plastic_valley , printbot , robot , sensor , shield , UAM , ultrasonic  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+ArduSkyBot v1.0, an open source educational printbot [Git repo] by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

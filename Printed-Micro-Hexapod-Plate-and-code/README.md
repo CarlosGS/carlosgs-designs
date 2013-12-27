@@ -1,5 +1,6 @@
 Printed Micro-Hexapod (Plate and code)
 ===============
+Printed Micro-Hexapod (Plate and code)  by carlosgs , published Nov 17, 2012
 
 ![Image](img/2012-11-17_18.27.49_display_large.jpg "Title")
 
@@ -22,31 +23,38 @@ All credit of the design goes to Ijon (http://www.thingiverse.com/Ijon), thank y
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ hexapodFullDemo.ino](hexapodFullDemo.ino "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](hexapodFullDemo.ino)
+ [ hexapodFullDemo.ino](hexapodFullDemo.ino)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ hexapod.ino](hexapod.ino "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](hexapod.ino)
+ [ hexapod.ino](hexapod.ino)  
 
-![Image](img/body_preview_tinycard.jpg "Title")
- [ body.stl](body.stl "Title")  
+[![Image](img/body_preview_tinycard.jpg)](body.stl)
+ [ body.stl](body.stl)  
 
-![Image](img/legs_preview_tinycard.jpg "Title")
- [ legs.stl](legs.stl "Title")  
+[![Image](img/legs_preview_tinycard.jpg)](legs.stl)
+ [ legs.stl](legs.stl)  
 
 
 
 Pictures
 --------
+![Image](img/body_display_large.jpg "Title")
 ![Image](img/legs_display_large.jpg "Title")
 ![Image](img/2012-11-17_20.19.15_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+arduino , oscillators , plastic_valley , printbot , robot , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Printed Micro-Hexapod (Plate and code) by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

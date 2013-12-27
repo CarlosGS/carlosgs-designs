@@ -1,5 +1,6 @@
 Canon EOS 350D model
 ===============
+Canon EOS 350D model  by carlosgs , published Jun 21, 2012
 
 ![Image](img/Canon350DbasicbyALX_fixed_display_large.jpg "Title")
 
@@ -23,28 +24,29 @@ Printed on a custom Printrbot :)<br />
 
 Files
 --------
-![Image](img/1_body_fixed_preview_tinycard.jpg "Title")
- [ 1_body_fixed.stl](1_body_fixed.stl "Title")  
+[![Image](img/1_body_fixed_preview_tinycard.jpg)](1_body_fixed.stl)
+ [ 1_body_fixed.stl](1_body_fixed.stl)  
 
-![Image](img/4_lens_fixed_preview_tinycard.jpg "Title")
- [ 4_lens_fixed.stl](4_lens_fixed.stl "Title")  
+[![Image](img/4_lens_fixed_preview_tinycard.jpg)](4_lens_fixed.stl)
+ [ 4_lens_fixed.stl](4_lens_fixed.stl)  
 
-![Image](img/2_body_fixed_preview_tinycard.jpg "Title")
- [ 2_body_fixed.stl](2_body_fixed.stl "Title")  
+[![Image](img/2_body_fixed_preview_tinycard.jpg)](2_body_fixed.stl)
+ [ 2_body_fixed.stl](2_body_fixed.stl)  
 
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ Canon350Dbasic_byALX_original.skp](Canon350Dbasic_byALX_original.skp "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](Canon350Dbasic_byALX_original.skp)
+ [ Canon350Dbasic_byALX_original.skp](Canon350Dbasic_byALX_original.skp)  
 
-![Image](img/Canon350DbasicbyALX_fixed_preview_tinycard.jpg "Title")
- [ Canon350DbasicbyALX_fixed.stl](Canon350DbasicbyALX_fixed.stl "Title")  
+[![Image](img/Canon350DbasicbyALX_fixed_preview_tinycard.jpg)](Canon350DbasicbyALX_fixed.stl)
+ [ Canon350DbasicbyALX_fixed.stl](Canon350DbasicbyALX_fixed.stl)  
 
-![Image](img/3_lens_fixed_preview_tinycard.jpg "Title")
- [ 3_lens_fixed.stl](3_lens_fixed.stl "Title")  
+[![Image](img/3_lens_fixed_preview_tinycard.jpg)](3_lens_fixed.stl)
+ [ 3_lens_fixed.stl](3_lens_fixed.stl)  
 
 
 
 Pictures
 --------
+![Image](img/4_lens_fixed_display_large.jpg "Title")
 ![Image](img/3_lens_fixed_display_large.jpg "Title")
 ![Image](img/2012-06-21_22.47.29_display_large.jpg "Title")
 ![Image](img/2012-06-21_22.47.45_display_large.jpg "Title")
@@ -55,11 +57,17 @@ Pictures
 ![Image](img/2012-06-21_18.29.00_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+350D , 3D , camera , Canon , EOS , model , plastic_valley , reprap , sketchup , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Canon EOS 350D model by carlosgs is licensed under the Creative Commons - Attribution license.  
 

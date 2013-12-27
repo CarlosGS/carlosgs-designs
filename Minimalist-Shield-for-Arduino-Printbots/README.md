@@ -1,5 +1,6 @@
 Minimalist Shield for Arduino Printbots
 ===============
+Minimalist Shield for Arduino Printbots  by carlosgs , published Apr 30, 2012
 
 ![Image](img/minimalist_shield_display_large.jpg "Title")
 
@@ -32,13 +33,14 @@ Instructions
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ MiniShield_v1.0.zip](MiniShield_v1.0.zip "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](MiniShield_v1.0.zip)
+ [ MiniShield_v1.0.zip](MiniShield_v1.0.zip)  
 
 
 
 Pictures
 --------
+![Image](img/2012-04-19_16.06.50_display_large.jpg "Title")
 ![Image](img/minimalist_shield_v1.0_3_display_large.jpg "Title")
 ![Image](img/minimalist_shield_v1.0_2_display_large.jpg "Title")
 ![Image](img/2012-05-02_12.24.31_display_large.jpg "Title")
@@ -50,11 +52,17 @@ Pictures
 ![Image](img/2012-05-16_17.22.50_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+analog , arduino , motor , pcb , pin_header , plastic_valley , printbot , servo , shield , UAM  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+Minimalist Shield for Arduino Printbots by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 
