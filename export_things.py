@@ -208,7 +208,7 @@ with open("README.md", 'w') as fd: # Generate the global README file with the li
         
         fd.write(thing["title"] + "\n--------\n")
         fd.write('[![Image](' + thing["img"] + ')](' + thing["folder"] + '/)  \n')
-        fd.write('[' + thing["title"] + '](' + thing["folder"] + '/)  \n')
+        fd.write('[' + thing["title"] + '](' + thing["folder"] + '/)  \n\n\n')
     
     fd.write("\nAuthor: " + authorName + "\n--------\n")
     fd.write("\n\nLicense\n--------\n")
