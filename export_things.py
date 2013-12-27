@@ -154,7 +154,7 @@ while 1:
                 fd.write(' [ ' + file["name"] + '](' + file["name"] + ' "Title")  \n\n')
             
             fd.write("\n\nPictures\n--------\n")
-            for image in images[2:]:
+            for image in images[1:]:
                 fd.write('![Image](img/' + image + ' "Title")\n')
             
             
