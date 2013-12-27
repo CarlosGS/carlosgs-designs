@@ -12,9 +12,14 @@ from BeautifulSoup import BeautifulSoup
 import os
 import re
 
-url = "https://www.thingiverse.com/"
+
+# EDIT THIS!
 user = "carlosgs"
 
+
+url = "https://www.thingiverse.com/"
+
+# Helper function to create directories
 def makeDirs(path):
     try:
         os.makedirs(path)
@@ -22,6 +27,7 @@ def makeDirs(path):
         return -1
     return 0
 
+# Helper function to perform the required HTTP requests
 def httpGet(page, filename=False, redir=True):
     r = requests.get(page, allow_redirects=redir)
     if r.status_code != 200:
@@ -44,34 +50,35 @@ print("Usuario: " + user)
 
 thingCount = 0
 pgNum = 1
-while 1:
+while 1: # Iterate over all the pages of things
     print("\nPagina: " + str(pgNum))
     res = httpGet(url + user + "/designs/page:" + str(pgNum), redir=False)#, filename="test" + str(pgNum) + ".html")
     if res == -1: break
     res_xml = BeautifulSoup(res)
     things = res_xml.findAll("div", { "class":"thing thing-interaction-parent" })
-    for thing in things:
+    for thing in things: # Iterate over each thing
         title = str(thing["title"])
         # Optional: Remove text within brackets
         title = re.sub("\[[^\]]*\]","", title)
         title = title.strip()
-        id = str(thing["data-thing-id"])
+        id = str(thing["data-thing-id"]) # Get title and id of the current thing
         
         print("\nProcesando " + id + " : " + title)
         
         folder = title.replace(' ', '-').replace('(', '').replace(')', '')
-        previewImgUrl = str(thing.findAll("img", { "class":"thing-img" })[0]["src"])
+        previewImgUrl = str(thing.findAll("img", { "class":"thing-img" })[0]["src"]) # Get the link for the preview image
         previewImgName = previewImgUrl.split('/')[-1]
         previewImgFile = folder + "/img/" + previewImgName
-        makeDirs(folder)
+        
+        makeDirs(folder) # Create the required directories
         makeDirs(folder + "/img")
         
         print("Descargando imagen de vista previa ( " + previewImgName + " )")
-        httpGet(previewImgUrl, previewImgFile)
+        httpGet(previewImgUrl, previewImgFile) # Download the preview image
         
         print("Cargando datos")
         
-        res = httpGet(url + "/thing:" + id, redir=False)#, filename=folder + ".html")
+        res = httpGet(url + "/thing:" + id, redir=False) # Load the page of the thing
         if res == -1:
             print("Error al descargar " + id + " : " + title)
             exit()
@@ -79,21 +86,21 @@ while 1:
         
         description = res_xml.findAll("div", { "id":"description" })
         if description:
-            description = "".join(str(item) for item in description[0].contents)
+            description = "".join(str(item) for item in description[0].contents) # Get the description
             description = description.strip()
         else:
             description = "None"
         
         instructions = res_xml.findAll("div", { "id":"instructions" })
         if instructions:
-            instructions = "".join(str(item) for item in instructions[0].contents)
+            instructions = "".join(str(item) for item in instructions[0].contents) # Get the instructions
             instructions = instructions.strip()
         else:
             instructions = "None"
         
         
         files = {}
-        for file in res_xml.findAll("div", { "class":"thing-file" }):
+        for file in res_xml.findAll("div", { "class":"thing-file" }): # Parse the files and download them
             fileUrl = url + str(file.a["href"])
             fileName = str(file.a["title"])
             filePath = folder + "/" + fileName
@@ -113,7 +120,7 @@ while 1:
         
         gallery = res_xml.findAll("div", { "class":"thing-page-slider main-slider" })[0]
         images = []
-        for image in gallery.findAll("div", { "class":"thing-page-image featured" }):
+        for image in gallery.findAll("div", { "class":"thing-page-image featured" }): # Parse the images and download them
             imgUrl = str(image["data-large-url"])
             imgName = imgUrl.split('/')[-1]
             imgFile = folder + "/img/" + imgName
@@ -123,7 +130,7 @@ while 1:
         
         
         
-        with open(folder + "/README.md", 'w') as fd:
+        with open(folder + "/README.md", 'w') as fd: # Generate the README file for the thing
             fd.write(title)
             fd.write("\n===============\n\n")
             fd.write('![Image](img/' + images[0] + ' "Title")\n\n')
@@ -161,7 +168,7 @@ while 1:
     pgNum += 1
 
 
-with open("README.md", 'w') as fd:
+with open("README.md", 'w') as fd: # Generate the global README file with the list of the things
     fd.write("Things from " + user)
     fd.write("\n===============\n\n")
     
