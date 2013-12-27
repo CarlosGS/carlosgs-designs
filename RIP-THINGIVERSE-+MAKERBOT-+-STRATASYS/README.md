@@ -1,5 +1,6 @@
 RIP THINGIVERSE (+MAKERBOT + STRATASYS)
 ===============
+RIP THINGIVERSE (+MAKERBOT + STRATASYS)  by carlosgs , published Nov 28, 2013
 
 ![Image](img/RIP3DPrinting_display_large_display_large.jpg "Title")
 
@@ -31,20 +32,27 @@ None
 
 Files
 --------
-![Image](img/RIP_3DPrinting_preview_tinycard.jpg "Title")
- [ RIP_3DPrinting.stl](RIP_3DPrinting.stl "Title")  
+[![Image](img/RIP_3DPrinting_preview_tinycard.jpg)](RIP_3DPrinting.stl)
+ [ RIP_3DPrinting.stl](RIP_3DPrinting.stl)  
 
 
 
 Pictures
 --------
+![Image](img/RIP_3DPrinting_display_large.jpg "Title")
 
 
-Author: carlosgs
+Tags
+--------
+None  
+
+
+
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+RIP THINGIVERSE (+MAKERBOT + STRATASYS) by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

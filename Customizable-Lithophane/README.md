@@ -28,23 +28,24 @@ Once printed, hang your picture in a window.
 
 Files
 --------
-![Image](img/Gears_preview_tinycard.jpg "Title")
- [ uploads-12-c4-26-17-3d-lithophaneV2.scad](uploads-12-c4-26-17-3d-lithophaneV2.scad "Title")  
+[![Image](img/Gears_preview_tinycard.jpg)](uploads-12-c4-26-17-3d-lithophaneV2.scad)
+ [ uploads-12-c4-26-17-3d-lithophaneV2.scad](uploads-12-c4-26-17-3d-lithophaneV2.scad)  
 
-![Image](img/oshw_lithophane_preview_tinycard.jpg "Title")
- [ oshw_lithophane.stl](oshw_lithophane.stl "Title")  
+[![Image](img/oshw_lithophane_preview_tinycard.jpg)](oshw_lithophane.stl)
+ [ oshw_lithophane.stl](oshw_lithophane.stl)  
 
 
 
 Pictures
 --------
+![Image](img/oshw_lithophane_display_large.jpg "Title")
 
 
-Author: carlosgs
+Author: Carlos Garcia Saura (carlosgs)
 --------
 
 
 License
 --------
-CC-BY-SA (unless other specified)
+[With polygonal frame] Customizable Lithophane by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 

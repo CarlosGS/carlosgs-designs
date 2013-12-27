@@ -14,8 +14,8 @@ import re
 
 
 # EDIT THIS!
-user = "carlosgs"
-
+user = "carlosgs" # User from Thingiverse (as in the profile URL)
+authorName = "Carlos Garcia Saura (carlosgs)" # Any string is OK
 
 url = "https://www.thingiverse.com/"
 
@@ -99,6 +99,34 @@ while 1: # Iterate over all the pages of things
             instructions = "None"
         
         
+        license = res_xml.findAll("div", { "class":"license-text" })
+        if license:
+            license = str(license[0].getText(separator=u' ')) # Get the license
+            license = license.strip()
+        else:
+            license = "CC-BY-SA (default, check actual license)"
+        
+        
+        
+        tags = res_xml.findAll("div", { "class":"thing-info-content thing-detail-tags-container" })
+        if tags:
+            tags = str(tags[0].getText(separator=u' ')) # Get the tags
+            tags = tags.strip()
+        else:
+            tags = "None"
+        if len(tags) < 2: tags = "None"
+        
+        
+        
+        header = res_xml.findAll("div", { "class":"thing-header-data" })
+        if header:
+            header = str(header[0].getText(separator=u' ')) # Get the header (title + date published)
+            header = header.strip()
+        else:
+            header = "None"
+        if len(header) < 2: header = "None"
+        
+        
         files = {}
         for file in res_xml.findAll("div", { "class":"thing-file" }): # Parse the files and download them
             fileUrl = url + str(file.a["href"])
@@ -132,8 +160,9 @@ while 1: # Iterate over all the pages of things
         
         with open(folder + "/README.md", 'w') as fd: # Generate the README file for the thing
             fd.write(title)
-            fd.write("\n===============\n\n")
-            fd.write('![Image](img/' + images[0] + ' "Title")\n\n')
+            fd.write("\n===============\n")
+            fd.write(header)
+            fd.write('\n\n![Image](img/' + images[0] + ' "Title")\n\n')
             fd.write("Description\n--------\n")
             fd.write(description)
             fd.write("\n\nInstructions\n--------\n")
@@ -142,17 +171,19 @@ while 1: # Iterate over all the pages of things
             fd.write("\n\nFiles\n--------\n")
             for path in files.keys():
                 file = files[path]
-                fd.write('![Image](img/' + file["preview"] + ' "Title")\n')
-                fd.write(' [ ' + file["name"] + '](' + file["name"] + ' "Title")  \n\n')
+                fd.write('[![Image](img/' + file["preview"] + ')](' + file["name"] + ')\n')
+                fd.write(' [ ' + file["name"] + '](' + file["name"] + ')  \n\n')
             
             fd.write("\n\nPictures\n--------\n")
             for image in images[1:]:
                 fd.write('![Image](img/' + image + ' "Title")\n')
             
+            fd.write("\n\nTags\n--------\n")
+            fd.write(tags + "  \n\n")
             
-            fd.write("\n\nAuthor: " + user + "\n--------\n")
+            fd.write("\n\nAuthor: " + authorName + "\n--------\n")
             fd.write("\n\nLicense\n--------\n")
-            fd.write("CC-BY-SA (unless other specified)\n\n")
+            fd.write(license + "  \n\n")
             fd.close()
         
         
@@ -176,10 +207,10 @@ with open("README.md", 'w') as fd: # Generate the global README file with the li
         thing = thingList[title]
         
         fd.write(thing["title"] + "\n--------\n")
-        fd.write('![Image](' + thing["img"] + ' "Title")\n\n  ')
-        fd.write('[' + thing["title"] + '](' + thing["folder"] + ' "Title")  \n')
+        fd.write('[![Image](' + thing["img"] + ')](' + thing["folder"] + '/)  \n')
+        fd.write('[' + thing["title"] + '](' + thing["folder"] + '/)  \n')
     
-    fd.write("\nAuthor: " + user + "\n--------\n")
+    fd.write("\nAuthor: " + authorName + "\n--------\n")
     fd.write("\n\nLicense\n--------\n")
     fd.write("CC-BY-SA (unless other specified)\n\n")
     fd.close()
