@@ -66,14 +66,14 @@ while 1: # Iterate over all the pages of things
     things = res_xml.findAll("div", { "class":"thing thing-interaction-parent" })
     for thing in things: # Iterate over each thing
         title = str(thing["title"])
-        # Optional: Remove text within brackets
-        title = re.sub("\[[^\]]*\]","", title)
+        title = re.sub("\[[^\]]*\]","", title) # Optional: Remove text within brackets from the title
         title = title.strip()
         id = str(thing["data-thing-id"]) # Get title and id of the current thing
         
         print("\nProcesando " + id + " : " + title)
         
-        folder = title.replace(' ', '-').replace('(', '').replace(')', '').replace('*', '')
+        #folder = title.replace(' ', '-').replace('(', '').replace(')', '').replace('*', '')
+        folder = "-".join(re.findall("[a-zA-Z0-9]+", title)) # Create a clean title for our folder
         previewImgUrl = str(thing.findAll("img", { "class":"thing-img" })[0]["src"]) # Get the link for the preview image
         previewImgName = previewImgUrl.split('/')[-1]
         previewImgFile = folder + "/img/" + previewImgName
@@ -170,7 +170,7 @@ while 1: # Iterate over all the pages of things
         with open(folder + "/README.md", 'w') as fd: # Generate the README file for the thing
             fd.write(title)
             fd.write("\n===============\n")
-            fd.write(readmeHeader)
+            fd.write(readmeHeader + "\n")
             fd.write(header)
             fd.write('\n\n![Image](img/' + images[0] + ' "Title")\n\n')
             fd.write("Description\n--------\n")

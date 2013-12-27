@@ -1,6 +1,7 @@
 Vector-9000, a fast line follower robot
 ===============
 **Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+
 Vector-9000, a fast line follower robot  by carlosgs , published Mar 23, 2013
 
 ![Image](img/Vector-9000_front_display_large.jpg "Title")
@@ -25,38 +26,38 @@ Tech specs:<br />
 
 Files
 --------
-[![Image](img/Gears_preview_tinycard.jpg)](Chasis.scad)
- [ Chasis.scad](Chasis.scad)  
-
-[![Image](img/Chasis_preview_tinycard.jpg)](Chasis.stl)
- [ Chasis.stl](Chasis.stl)  
-
-[![Image](img/CubiertaCarcasa_preview_tinycard.jpg)](CubiertaCarcasa.stl)
- [ CubiertaCarcasa.stl](CubiertaCarcasa.stl)  
-
-[![Image](img/NuevaCover_preview_tinycard.jpg)](NuevaCover.stl)
- [ NuevaCover.stl](NuevaCover.stl)  
-
-[![Image](img/CubiertaPololu_preview_tinycard.jpg)](CubiertaPololu.stl)
- [ CubiertaPololu.stl](CubiertaPololu.stl)  
-
-[![Image](img/Gears_preview_tinycard.jpg)](CubiertaPololu.scad)
- [ CubiertaPololu.scad](CubiertaPololu.scad)  
-
-[![Image](img/Gears_preview_tinycard.jpg)](LineSensorV2_new.scad)
- [ LineSensorV2_new.scad](LineSensorV2_new.scad)  
+[![Image](img/SoporteLDR_preview_tinycard.jpg)](SoporteLDR.stl)
+ [ SoporteLDR.stl](SoporteLDR.stl)  
 
 [![Image](img/TercerApoyo_preview_tinycard.jpg)](TercerApoyo.stl)
  [ TercerApoyo.stl](TercerApoyo.stl)  
 
+[![Image](img/NuevaCover_preview_tinycard.jpg)](NuevaCover.stl)
+ [ NuevaCover.stl](NuevaCover.stl)  
+
+[![Image](img/Chasis_preview_tinycard.jpg)](Chasis.stl)
+ [ Chasis.stl](Chasis.stl)  
+
+[![Image](img/CubiertaPololu_preview_tinycard.jpg)](CubiertaPololu.stl)
+ [ CubiertaPololu.stl](CubiertaPololu.stl)  
+
 [![Image](img/Gears_preview_tinycard.jpg)](TercerApoyo.scad)
  [ TercerApoyo.scad](TercerApoyo.scad)  
+
+[![Image](img/Gears_preview_tinycard.jpg)](LineSensorV2_new.scad)
+ [ LineSensorV2_new.scad](LineSensorV2_new.scad)  
+
+[![Image](img/Gears_preview_tinycard.jpg)](CubiertaPololu.scad)
+ [ CubiertaPololu.scad](CubiertaPololu.scad)  
 
 [![Image](img/Gears_preview_tinycard.jpg)](CubiertaCarcasa.scad)
  [ CubiertaCarcasa.scad](CubiertaCarcasa.scad)  
 
-[![Image](img/SoporteLDR_preview_tinycard.jpg)](SoporteLDR.stl)
- [ SoporteLDR.stl](SoporteLDR.stl)  
+[![Image](img/Gears_preview_tinycard.jpg)](Chasis.scad)
+ [ Chasis.scad](Chasis.scad)  
+
+[![Image](img/CubiertaCarcasa_preview_tinycard.jpg)](CubiertaCarcasa.stl)
+ [ CubiertaCarcasa.stl](CubiertaCarcasa.stl)  
 
 [![Image](img/Gears_preview_tinycard.jpg)](SoporteLDR.scad)
  [ SoporteLDR.scad](SoporteLDR.scad)  

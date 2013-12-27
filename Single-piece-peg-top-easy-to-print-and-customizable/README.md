@@ -1,6 +1,7 @@
 Single piece peg-top! easy to print and customizable!
 ===============
 **Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+
 Single piece peg-top! easy to print and customizable!  by carlosgs , published Feb 13, 2013
 
 ![Image](img/2013-02-14_00.07.04_display_large.jpg "Title")
@@ -26,23 +27,23 @@ Thank you Obijuan for fixing it!! :-)
 
 Files
 --------
-[![Image](img/Gears_preview_tinycard.jpg)](Spin_top_v3.scad)
- [ Spin_top_v3.scad](Spin_top_v3.scad)  
-
-[![Image](img/Spin_top_v3_triang_preview_tinycard.jpg)](Spin_top_v3_triang.stl)
- [ Spin_top_v3_triang.stl](Spin_top_v3_triang.stl)  
+[![Image](img/Spin_top_v3_pentagon_preview_tinycard.jpg)](Spin_top_v3_pentagon.stl)
+ [ Spin_top_v3_pentagon.stl](Spin_top_v3_pentagon.stl)  
 
 [![Image](img/Gears_preview_tinycard.jpg)](Spin_top.stl)
  [ Spin_top.stl](Spin_top.stl)  
 
-[![Image](img/Spin_top_v3_square_preview_tinycard.jpg)](Spin_top_v3_square.stl)
- [ Spin_top_v3_square.stl](Spin_top_v3_square.stl)  
-
-[![Image](img/Spin_top_v3_pentagon_preview_tinycard.jpg)](Spin_top_v3_pentagon.stl)
- [ Spin_top_v3_pentagon.stl](Spin_top_v3_pentagon.stl)  
+[![Image](img/Spin_top_v3_triang_preview_tinycard.jpg)](Spin_top_v3_triang.stl)
+ [ Spin_top_v3_triang.stl](Spin_top_v3_triang.stl)  
 
 [![Image](img/Spin_top_v3_plate_preview_tinycard.jpg)](Spin_top_v3_plate.stl)
  [ Spin_top_v3_plate.stl](Spin_top_v3_plate.stl)  
+
+[![Image](img/Spin_top_v3_square_preview_tinycard.jpg)](Spin_top_v3_square.stl)
+ [ Spin_top_v3_square.stl](Spin_top_v3_square.stl)  
+
+[![Image](img/Gears_preview_tinycard.jpg)](Spin_top_v3.scad)
+ [ Spin_top_v3.scad](Spin_top_v3.scad)  
 
 
 

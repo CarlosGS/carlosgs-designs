@@ -1,6 +1,7 @@
 ArduSkyBot v1.0, an open source educational printbot
 ===============
 **Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+
 ArduSkyBot v1.0, an open source educational printbot [Git repo]  by carlosgs , published Jul 18, 2012
 
 ![Image](img/ArduSkyBot_hand_display_large.jpg "Title")

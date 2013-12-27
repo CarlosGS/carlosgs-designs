@@ -30,13 +30,13 @@ Things from Carlos Garcia Saura (carlosgs)
 --------
 [![Image](Printrbot-Spool-Holder/img/20130213_134317_preview_card.jpg)](Printrbot-Spool-Holder/)  
 
-[RIP THINGIVERSE (+MAKERBOT + STRATASYS)](RIP-THINGIVERSE-+MAKERBOT-+-STRATASYS/)
+[RIP THINGIVERSE (+MAKERBOT + STRATASYS)](RIP-THINGIVERSE-MAKERBOT-STRATASYS/)
 --------
-[![Image](RIP-THINGIVERSE-+MAKERBOT-+-STRATASYS/img/RIP3DPrinting_display_large_preview_card.jpg)](RIP-THINGIVERSE-+MAKERBOT-+-STRATASYS/)  
+[![Image](RIP-THINGIVERSE-MAKERBOT-STRATASYS/img/RIP3DPrinting_display_large_preview_card.jpg)](RIP-THINGIVERSE-MAKERBOT-STRATASYS/)  
 
-[ArduSkyBot v1.0, an open source educational printbot](ArduSkyBot-v1.0,-an-open-source-educational-printbot/)
+[ArduSkyBot v1.0, an open source educational printbot](ArduSkyBot-v1-0-an-open-source-educational-printbot/)
 --------
-[![Image](ArduSkyBot-v1.0,-an-open-source-educational-printbot/img/ArduSkyBot_hand_preview_card.jpg)](ArduSkyBot-v1.0,-an-open-source-educational-printbot/)  
+[![Image](ArduSkyBot-v1-0-an-open-source-educational-printbot/img/ArduSkyBot_hand_preview_card.jpg)](ArduSkyBot-v1-0-an-open-source-educational-printbot/)  
 
 [Printed Micro-Hexapod (Plate and code)](Printed-Micro-Hexapod-Plate-and-code/)
 --------
@@ -66,33 +66,33 @@ Things from Carlos Garcia Saura (carlosgs)
 --------
 [![Image](Hot-end-fan-mount-with-dual-air-flow/img/airflow_preview_card.jpg)](Hot-end-fan-mount-with-dual-air-flow/)  
 
-[ArduSkyBot v2.0](ArduSkyBot-v2.0/)
+[ArduSkyBot v2.0](ArduSkyBot-v2-0/)
 --------
-[![Image](ArduSkyBot-v2.0/img/IMG_1227_preview_card.jpg)](ArduSkyBot-v2.0/)  
+[![Image](ArduSkyBot-v2-0/img/IMG_1227_preview_card.jpg)](ArduSkyBot-v2-0/)  
 
-[Single piece peg-top! easy to print and customizable!](Single-piece-peg-top!-easy-to-print-and-customizable!/)
+[Single piece peg-top! easy to print and customizable!](Single-piece-peg-top-easy-to-print-and-customizable/)
 --------
-[![Image](Single-piece-peg-top!-easy-to-print-and-customizable!/img/2013-02-17_11.04.08_preview_card.jpg)](Single-piece-peg-top!-easy-to-print-and-customizable!/)  
+[![Image](Single-piece-peg-top-easy-to-print-and-customizable/img/2013-02-17_11.04.08_preview_card.jpg)](Single-piece-peg-top-easy-to-print-and-customizable/)  
 
 [Printable caterpillar track](Printable-caterpillar-track/)
 --------
 [![Image](Printable-caterpillar-track/img/2012-12-09_18.30.04_preview_card.jpg)](Printable-caterpillar-track/)  
 
-[Vector-9000, a fast line follower robot](Vector-9000,-a-fast-line-follower-robot/)
+[Vector-9000, a fast line follower robot](Vector-9000-a-fast-line-follower-robot/)
 --------
-[![Image](Vector-9000,-a-fast-line-follower-robot/img/Vector-9000_front_preview_card.jpg)](Vector-9000,-a-fast-line-follower-robot/)  
+[![Image](Vector-9000-a-fast-line-follower-robot/img/Vector-9000_front_preview_card.jpg)](Vector-9000-a-fast-line-follower-robot/)  
 
-[Cyclone PCB Factory v0.9.7](Cyclone-PCB-Factory-v0.9.7/)
+[Cyclone PCB Factory v0.9.7](Cyclone-PCB-Factory-v0-9-7/)
 --------
-[![Image](Cyclone-PCB-Factory-v0.9.7/img/Cyclone_built_v0.9.7_preview_card.jpg)](Cyclone-PCB-Factory-v0.9.7/)  
+[![Image](Cyclone-PCB-Factory-v0-9-7/img/Cyclone_built_v0.9.7_preview_card.jpg)](Cyclone-PCB-Factory-v0-9-7/)  
 
 [Arduino based printbot HKTR-9000](Arduino-based-printbot-HKTR-9000/)
 --------
 [![Image](Arduino-based-printbot-HKTR-9000/img/2012-05-19_14.26.33_preview_card.jpg)](Arduino-based-printbot-HKTR-9000/)  
 
-[Printshield v1.0 for Arduino printbots](Printshield-v1.0-for-Arduino-printbots/)
+[Printshield v1.0 for Arduino printbots](Printshield-v1-0-for-Arduino-printbots/)
 --------
-[![Image](Printshield-v1.0-for-Arduino-printbots/img/Printshield_funcionando_preview_card.jpg)](Printshield-v1.0-for-Arduino-printbots/)  
+[![Image](Printshield-v1-0-for-Arduino-printbots/img/Printshield_funcionando_preview_card.jpg)](Printshield-v1-0-for-Arduino-printbots/)  
 
 [CNY70 sensor array for printbots](CNY70-sensor-array-for-printbots/)
 --------

@@ -1,6 +1,7 @@
 RIP THINGIVERSE (+MAKERBOT + STRATASYS)
 ===============
 **Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+
 RIP THINGIVERSE (+MAKERBOT + STRATASYS)  by carlosgs , published Nov 28, 2013
 
 ![Image](img/RIP3DPrinting_display_large_display_large.jpg "Title")

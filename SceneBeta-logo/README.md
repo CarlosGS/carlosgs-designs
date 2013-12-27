@@ -1,6 +1,7 @@
 SceneBeta logo
 ===============
 **Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+
 SceneBeta logo  by carlosgs , published May 5, 2012
 
 ![Image](img/logo_SB_display_large.jpg "Title")

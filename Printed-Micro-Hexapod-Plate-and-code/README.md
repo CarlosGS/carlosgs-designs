@@ -1,6 +1,7 @@
 Printed Micro-Hexapod (Plate and code)
 ===============
 **Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+
 Printed Micro-Hexapod (Plate and code)  by carlosgs , published Nov 17, 2012
 
 ![Image](img/2012-11-17_18.27.49_display_large.jpg "Title")

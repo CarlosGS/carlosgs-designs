@@ -1,6 +1,7 @@
 Customizable Lithophane
 ===============
 **Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+
 [With polygonal frame] Customizable Lithophane  by carlosgs , published May 2, 2013
 
 ![Image](img/2013-05-02_19.14.38_display_large.jpg "Title")
