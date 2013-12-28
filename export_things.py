@@ -3,6 +3,7 @@
 # Thingiverse* exporter
 # by Carlos Garcia Saura (http://carlosgs.es)
 # CC-BY-SA license (http://creativecommons.org/licenses/by-sa/3.0/)
+# https://github.com/carlosgs/export-things
 # *Unofficial program, not associated with Thingiverse
 # Use at your own risk!
 
