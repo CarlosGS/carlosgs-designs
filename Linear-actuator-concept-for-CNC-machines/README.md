@@ -1,6 +1,6 @@
 Linear actuator concept for CNC machines
 ===============
-**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
 
 Linear actuator concept for CNC machines  by carlosgs , published Jan 28, 2013
 
@@ -60,13 +60,14 @@ Tags
 --------
 actuator , cnc , linear , Nema17 , plastic_valley , stepper , threaded_rod , UAM  
 
-
-
-Author: Carlos Garcia Saura (carlosgs)
---------
-<http://carlosgs.es/>  
+  
 
 License
 --------
 Linear actuator concept for CNC machines by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 
+
+
+By: Carlos Garcia Saura (carlosgs)
+--------
+<http://carlosgs.es/>

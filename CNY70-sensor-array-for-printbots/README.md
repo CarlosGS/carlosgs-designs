@@ -1,6 +1,6 @@
 CNY70 sensor array for printbots
 ===============
-**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
 
 CNY70 sensor array for printbots [Git repo]  by carlosgs , published Jul 18, 2012
 
@@ -41,13 +41,14 @@ Tags
 --------
 arduino , CNY70 , line , pcb , plastic_valley , printbot , robot , sensor , shield , UAM  
 
-
-
-Author: Carlos Garcia Saura (carlosgs)
---------
-<http://carlosgs.es/>  
+  
 
 License
 --------
 CNY70 sensor array for printbots [Git repo] by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 
+
+
+By: Carlos Garcia Saura (carlosgs)
+--------
+<http://carlosgs.es/>

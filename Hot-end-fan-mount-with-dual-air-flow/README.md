@@ -1,6 +1,6 @@
 Hot-end fan mount with dual air flow
 ===============
-**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
 
 Hot-end fan mount with dual air flow  by carlosgs , published Apr 6, 2012
 
@@ -48,13 +48,14 @@ Tags
 --------
 3D , cooling , dual , fan , j-head , plastic_valley , sketchup , two-way , UAM  
 
-
-
-Author: Carlos Garcia Saura (carlosgs)
---------
-<http://carlosgs.es/>  
+  
 
 License
 --------
 Hot-end fan mount with dual air flow by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 
+
+
+By: Carlos Garcia Saura (carlosgs)
+--------
+<http://carlosgs.es/>

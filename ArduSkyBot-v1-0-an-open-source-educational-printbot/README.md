@@ -1,6 +1,6 @@
 ArduSkyBot v1.0, an open source educational printbot
 ===============
-**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
 
 ArduSkyBot v1.0, an open source educational printbot [Git repo]  by carlosgs , published Jul 18, 2012
 
@@ -61,13 +61,14 @@ Tags
 --------
 arduino , button , distance , LDR , light , pcb , plastic_valley , printbot , robot , sensor , shield , UAM , ultrasonic  
 
-
-
-Author: Carlos Garcia Saura (carlosgs)
---------
-<http://carlosgs.es/>  
+  
 
 License
 --------
 ArduSkyBot v1.0, an open source educational printbot [Git repo] by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 
+
+
+By: Carlos Garcia Saura (carlosgs)
+--------
+<http://carlosgs.es/>

@@ -1,6 +1,6 @@
 Canon EOS 350D model
 ===============
-**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
 
 Canon EOS 350D model  by carlosgs , published Jun 21, 2012
 
@@ -8,7 +8,7 @@ Canon EOS 350D model  by carlosgs , published Jun 21, 2012
 
 Description
 --------
-I found this great Sketchup design by ALX: <a href="http://sketchup.google.com/3dwarehouse/details?mid=112d9018c88671703fdfd6bc6322f73b&amp;prevstart=0" target="_blank" rel="nofollow">sketchup.google.com/3dwarehouse/details?mid=112d9018c88671703fdfd6bc6322f73b&prevstart;=0</a><br />
+I found this great Sketchup design by ALX: <a href="http://sketchup.google.com/3dwarehouse/details?mid=112d9018c88671703fdfd6bc6322f73b&amp;prevstart=0" target="_blank" rel="nofollow">sketchup.google.com/3dwarehouse/details?mid=112d9018c88671703fdfd6bc6322f73b&amp;prevstart=0</a><br />
 So I exported it to STL, adapted the (approximate) real size scale, and printed the model :)
 
 Instructions
@@ -63,13 +63,14 @@ Tags
 --------
 350D , 3D , camera , Canon , EOS , model , plastic_valley , reprap , sketchup , UAM  
 
-
-
-Author: Carlos Garcia Saura (carlosgs)
---------
-<http://carlosgs.es/>  
+  
 
 License
 --------
 Canon EOS 350D model by carlosgs is licensed under the Creative Commons - Attribution license.  
 
+
+
+By: Carlos Garcia Saura (carlosgs)
+--------
+<http://carlosgs.es/>

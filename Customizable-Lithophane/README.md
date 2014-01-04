@@ -1,6 +1,6 @@
 Customizable Lithophane
 ===============
-**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
 
 [With polygonal frame] Customizable Lithophane  by carlosgs , published May 2, 2013
 
@@ -48,13 +48,14 @@ Tags
 --------
 customizer , lithopane , lithophane , polygonal  
 
-
-
-Author: Carlos Garcia Saura (carlosgs)
---------
-<http://carlosgs.es/>  
+  
 
 License
 --------
 [With polygonal frame] Customizable Lithophane by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 
+
+
+By: Carlos Garcia Saura (carlosgs)
+--------
+<http://carlosgs.es/>

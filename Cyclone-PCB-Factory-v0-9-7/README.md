@@ -1,6 +1,6 @@
 Cyclone PCB Factory v0.9.7
 ===============
-**Please note: This list has been automatically generated. Some of the designs have been updated since then, and already have they own GitHub page.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
 
 Cyclone PCB Factory v0.9.7 [added video summary]  by carlosgs , published Feb 11, 2013
 
@@ -156,13 +156,14 @@ Tags
 --------
 CNC , Cyclone , Mill , PCB , plastic_valley , printable , tool , UAM  
 
-
-
-Author: Carlos Garcia Saura (carlosgs)
---------
-<http://carlosgs.es/>  
+  
 
 License
 --------
 Cyclone PCB Factory v0.9.7 [added video summary] by carlosgs is licensed under the Creative Commons - Attribution - Share Alike license.  
 
+
+
+By: Carlos Garcia Saura (carlosgs)
+--------
+<http://carlosgs.es/>
