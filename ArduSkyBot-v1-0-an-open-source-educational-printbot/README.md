@@ -1,6 +1,6 @@
 ArduSkyBot v1.0, an open source educational printbot
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories). Make sure to check for the current license and authorship.**  
 
 ArduSkyBot v1.0, an open source educational printbot [Git repo]  by carlosgs , published Jul 18, 2012
 

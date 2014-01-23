@@ -1,7 +1,7 @@
 Things designed by Carlos Garcia Saura (carlosgs)
 ===============
 
-**Please note: This list of things was [automatically generated](https://github.com/carlosgs/export-things). Make sure to check the individual licenses and authorships.**  
+**Please note: This list of things was [automatically generated](https://github.com/carlosgs/export-things). Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories). Make sure to check the individual licenses and authorships.**  
 1. [RIP THINGIVERSE (+MAKERBOT + STRATASYS)](RIP-THINGIVERSE-MAKERBOT-STRATASYS/)
 --------
 [![Image](RIP-THINGIVERSE-MAKERBOT-STRATASYS/img/RIP3DPrinting_display_large_preview_card.jpg)](RIP-THINGIVERSE-MAKERBOT-STRATASYS/)  
