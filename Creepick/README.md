@@ -1,10 +1,10 @@
 Creepick
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Creepick  by carlosgs , published Jun 28, 2012
 
-![Image](img/2012-06-28_14.18.11_display_large.jpg "Title")
+![Image](img/2012-06-28_14.18.11_display_large.jpg)
 
 Description
 --------
@@ -38,10 +38,10 @@ Files
 
 Pictures
 --------
-![Image](img/2012-06-28_14.15.52_display_large.jpg "Title")
-![Image](img/creeper_face_display_large.jpg "Title")
-![Image](img/Creepick_display_large.jpg "Title")
-![Image](img/guitar-pick-1709_display_large.jpg "Title")
+![Image](img/2012-06-28_14.15.52_display_large.jpg)
+![Image](img/creeper_face_display_large.jpg)
+![Image](img/Creepick_display_large.jpg)
+![Image](img/guitar-pick-1709_display_large.jpg)
 
 
 Tags

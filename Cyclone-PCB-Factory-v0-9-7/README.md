@@ -1,10 +1,10 @@
 Cyclone PCB Factory v0.9.7
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Cyclone PCB Factory v0.9.7 [added video summary]  by carlosgs , published Feb 11, 2013
 
-![Image](img/Cyclone_built_v0.9.7_display_large.jpg "Title")
+![Image](img/Cyclone_built_v0.9.7_display_large.jpg)
 
 Description
 --------
@@ -93,8 +93,8 @@ Credit for the ideas used  <br />
 The origin of Cyclone took place while I was inside the __Panda CNC__ community (https://plus.google.com/u/0/communities/102402711800402614517). This is from December 2012 to mid-February 2013.  <br />
 Here is the credit for the ideas that were used:  <br />
 <br />
-* __LetÃÂÃÂ¢ÃÂ¢Ã¢ÂÂÃÂ¬ÃÂ¢Ã¢ÂÂÃÂ¢s design a 3D-printable CNC for PCB milling, it will be named Panda:__ Guillermo Welch (mid-December, via Google Talk)  <br />
-* __X carriage rod distribution:__ CÃÂÃÂÃÂÃÂ©sar Augusto FernÃÂÃÂÃÂÃÂ¡ndez Cano claims Cyclone's X axis is a derivate of his concept: <a href="https://plus.google.com/u/0/111421387442355054591/posts/QrfYtEuZBaj" target="_blank" rel="nofollow">plus.google.com/u/0/111421387442355054591/posts/QrfYtEuZBaj</a> <br />
+* __Lets design a 3D-printable CNC for PCB milling, it will be named Panda:__ Guillermo Welch (mid-December, via Google Talk)  <br />
+* __X carriage rod distribution:__ Csar Augusto Fernndez Cano claims Cyclone's X axis is a derivate of his concept: <a href="https://plus.google.com/u/0/111421387442355054591/posts/QrfYtEuZBaj" target="_blank" rel="nofollow">plus.google.com/u/0/111421387442355054591/posts/QrfYtEuZBaj</a> <br />
 * __100x160mm workspace:__ David Martin <a href="https://dl.dropboxusercontent.com/u/16122275/PandaCNC_credit/workplace_size.png" target="_blank" rel="nofollow">dl.dropboxusercontent.com/u/16122275/PandaCNC_credit/workplace_size.png</a> <br />
 * __Using gears to drive the X-Y axes:__ Guillermo Welch <a href="https://plus.google.com/u/0/101232926728463427403/posts/QjZGNcWcgGg" target="_blank" rel="nofollow">plus.google.com/u/0/101232926728463427403/posts/QjZGNcWcgGg</a> <br />
 * __Regarding the woodbase:__ Guillermo Welch always contemplated the possibility of attaching the machine (optionally) to a woodbase. I decided to use the base as a main structural part instead. See <a href="https://dl.dropboxusercontent.com/u/16122275/PandaCNC_credit/woodbase.png" target="_blank" rel="nofollow">dl.dropboxusercontent.com/u/16122275/PandaCNC_credit/woodbase.png</a> (screenshot from <a href="https://plus.google.com/u/0/113437723819360223498/posts/8LDCSSVWqCS" target="_blank" rel="nofollow">plus.google.com/u/0/113437723819360223498/posts/8LDCSSVWqCS</a>)  <br />
@@ -113,43 +113,43 @@ Files
 
 Pictures
 --------
-![Image](img/Cyclone_display_large.jpg "Title")
-![Image](img/Cyclone_render_v0.9.7_display_large.jpg "Title")
-![Image](img/2013-05-30_16.23.08_display_large.jpg "Title")
-![Image](img/2013-05-23_23.07.37_display_large.jpg "Title")
-![Image](img/2013-05-20_14.41.25_display_large.jpg "Title")
-![Image](img/2013-05-20_15.50.43_display_large.jpg "Title")
-![Image](img/2013-05-20_12.23.34_display_large.jpg "Title")
-![Image](img/2013-05-20_16.03.48_display_large.jpg "Title")
-![Image](img/2013-05-19_19.53.28_display_large.jpg "Title")
-![Image](img/Screenshot_from_2013-05-19_202104_display_large.jpg "Title")
-![Image](img/2013-05-19_19.52.21_display_large.jpg "Title")
-![Image](img/2013-05-19_19.48.32_display_large.jpg "Title")
-![Image](img/2013-05-19_19.52.13_display_large.jpg "Title")
-![Image](img/2013-05-23_23.25.12_display_large.jpg "Title")
-![Image](img/2013-05-20_14.43.52_display_large.jpg "Title")
-![Image](img/CycloneFirstDrawing_display_large.jpg "Title")
-![Image](img/2013-04-07_14.44.55-1_display_large.jpg "Title")
-![Image](img/2013-04-07_14.49.43-1_display_large.jpg "Title")
-![Image](img/2013-04-07_14.41.35_display_large.jpg "Title")
-![Image](img/2013-03-29_20.04.51_display_large.jpg "Title")
-![Image](img/2013-03-29_14.21.58_display_large.jpg "Title")
-![Image](img/2013-03-29_13.46.37_display_large.jpg "Title")
-![Image](img/2013-03-29_20.07.27_display_large.jpg "Title")
-![Image](img/2013-03-28_22.44.51_display_large.jpg "Title")
-![Image](img/2013-02-10_20.46.51_display_large.jpg "Title")
-![Image](img/2013-02-09_23.29.32_display_large.jpg "Title")
-![Image](img/2013-02-10_14.20.56_display_large.jpg "Title")
-![Image](img/2013-02-10_20.47.46_display_large.jpg "Title")
-![Image](img/2013-02-10_23.05.56_display_large.jpg "Title")
-![Image](img/pcb_CNC_display_large.jpg "Title")
-![Image](img/drill_display_large.jpg "Title")
-![Image](img/2013-03-28_17.19.18_display_large.jpg "Title")
-![Image](img/2013-03-28_17.24.39_display_large.jpg "Title")
-![Image](img/2013-03-28_17.51.47_display_large.jpg "Title")
-![Image](img/2013-03-28_18.03.34_display_large.jpg "Title")
-![Image](img/2013-03-28_22.46.10_display_large.jpg "Title")
-![Image](img/2013-03-29_20.05.10_display_large.jpg "Title")
+![Image](img/Cyclone_display_large.jpg)
+![Image](img/Cyclone_render_v0.9.7_display_large.jpg)
+![Image](img/2013-05-30_16.23.08_display_large.jpg)
+![Image](img/2013-05-23_23.07.37_display_large.jpg)
+![Image](img/2013-05-20_14.41.25_display_large.jpg)
+![Image](img/2013-05-20_15.50.43_display_large.jpg)
+![Image](img/2013-05-20_12.23.34_display_large.jpg)
+![Image](img/2013-05-20_16.03.48_display_large.jpg)
+![Image](img/2013-05-19_19.53.28_display_large.jpg)
+![Image](img/Screenshot_from_2013-05-19_202104_display_large.jpg)
+![Image](img/2013-05-19_19.52.21_display_large.jpg)
+![Image](img/2013-05-19_19.48.32_display_large.jpg)
+![Image](img/2013-05-19_19.52.13_display_large.jpg)
+![Image](img/2013-05-23_23.25.12_display_large.jpg)
+![Image](img/2013-05-20_14.43.52_display_large.jpg)
+![Image](img/CycloneFirstDrawing_display_large.jpg)
+![Image](img/2013-04-07_14.44.55-1_display_large.jpg)
+![Image](img/2013-04-07_14.49.43-1_display_large.jpg)
+![Image](img/2013-04-07_14.41.35_display_large.jpg)
+![Image](img/2013-03-29_20.04.51_display_large.jpg)
+![Image](img/2013-03-29_14.21.58_display_large.jpg)
+![Image](img/2013-03-29_13.46.37_display_large.jpg)
+![Image](img/2013-03-29_20.07.27_display_large.jpg)
+![Image](img/2013-03-28_22.44.51_display_large.jpg)
+![Image](img/2013-02-10_20.46.51_display_large.jpg)
+![Image](img/2013-02-09_23.29.32_display_large.jpg)
+![Image](img/2013-02-10_14.20.56_display_large.jpg)
+![Image](img/2013-02-10_20.47.46_display_large.jpg)
+![Image](img/2013-02-10_23.05.56_display_large.jpg)
+![Image](img/pcb_CNC_display_large.jpg)
+![Image](img/drill_display_large.jpg)
+![Image](img/2013-03-28_17.19.18_display_large.jpg)
+![Image](img/2013-03-28_17.24.39_display_large.jpg)
+![Image](img/2013-03-28_17.51.47_display_large.jpg)
+![Image](img/2013-03-28_18.03.34_display_large.jpg)
+![Image](img/2013-03-28_22.46.10_display_large.jpg)
+![Image](img/2013-03-29_20.05.10_display_large.jpg)
 
 
 Tags

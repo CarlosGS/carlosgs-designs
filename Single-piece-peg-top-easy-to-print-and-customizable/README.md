@@ -1,10 +1,10 @@
 Single piece peg-top! easy to print and customizable!
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Single piece peg-top! easy to print and customizable!  by carlosgs , published Feb 13, 2013
 
-![Image](img/2013-02-14_00.07.04_display_large.jpg "Title")
+![Image](img/2013-02-14_00.07.04_display_large.jpg)
 
 Description
 --------
@@ -49,14 +49,14 @@ Files
 
 Pictures
 --------
-![Image](img/2013-02-14_00.33.07_display_large.jpg "Title")
-![Image](img/Spin_top_v3_square_display_large.jpg "Title")
-![Image](img/Spin_top_v3_pentagon_display_large.jpg "Title")
-![Image](img/Spin_top_v3_triang_display_large.jpg "Title")
-![Image](img/2013-02-17_11.04.08_display_large.jpg "Title")
-![Image](img/2013-02-17_12.34.18_display_large.jpg "Title")
-![Image](img/2013-02-17_12.42.30_display_large.jpg "Title")
-![Image](img/Spin_top_v3_plate_display_large.jpg "Title")
+![Image](img/2013-02-14_00.33.07_display_large.jpg)
+![Image](img/Spin_top_v3_square_display_large.jpg)
+![Image](img/Spin_top_v3_pentagon_display_large.jpg)
+![Image](img/Spin_top_v3_triang_display_large.jpg)
+![Image](img/2013-02-17_11.04.08_display_large.jpg)
+![Image](img/2013-02-17_12.34.18_display_large.jpg)
+![Image](img/2013-02-17_12.42.30_display_large.jpg)
+![Image](img/Spin_top_v3_plate_display_large.jpg)
 
 
 Tags

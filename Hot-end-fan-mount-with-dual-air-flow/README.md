@@ -1,10 +1,10 @@
 Hot-end fan mount with dual air flow
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Hot-end fan mount with dual air flow  by carlosgs , published Apr 6, 2012
 
-![Image](img/soporteventiladorlargo_fixed_display_large.jpg "Title")
+![Image](img/soporteventiladorlargo_fixed_display_large.jpg)
 
 Description
 --------
@@ -36,12 +36,12 @@ Files
 
 Pictures
 --------
-![Image](img/2012-04-05_23.30.18_display_large.jpg "Title")
-![Image](img/2012-04-05_23.29.14_display_large.jpg "Title")
-![Image](img/2012-04-05_21.02.25_display_large.jpg "Title")
-![Image](img/2012-04-05_21.17.35_display_large.jpg "Title")
-![Image](img/airflow_display_large.jpg "Title")
-![Image](img/2012-04-05_21.27.10_display_large.jpg "Title")
+![Image](img/2012-04-05_23.30.18_display_large.jpg)
+![Image](img/2012-04-05_23.29.14_display_large.jpg)
+![Image](img/2012-04-05_21.02.25_display_large.jpg)
+![Image](img/2012-04-05_21.17.35_display_large.jpg)
+![Image](img/airflow_display_large.jpg)
+![Image](img/2012-04-05_21.27.10_display_large.jpg)
 
 
 Tags

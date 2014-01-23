@@ -1,10 +1,10 @@
 Trisquel
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Trisquel  by carlosgs , published Apr 6, 2012
 
-![Image](img/2012-03-27_12.42.13_display_large.jpg "Title")
+![Image](img/2012-03-27_12.42.13_display_large.jpg)
 
 Description
 --------
@@ -32,10 +32,10 @@ Files
 
 Pictures
 --------
-![Image](img/2012-03-27_11.41.43_display_large.jpg "Title")
-![Image](img/trisquelcirclogo3d_fixed_display_large.jpg "Title")
-![Image](img/simbolo-celta-trisquel_display_large.jpg "Title")
-![Image](img/trisquel_3d_display_large.jpg "Title")
+![Image](img/2012-03-27_11.41.43_display_large.jpg)
+![Image](img/trisquelcirclogo3d_fixed_display_large.jpg)
+![Image](img/simbolo-celta-trisquel_display_large.jpg)
+![Image](img/trisquel_3d_display_large.jpg)
 
 
 Tags

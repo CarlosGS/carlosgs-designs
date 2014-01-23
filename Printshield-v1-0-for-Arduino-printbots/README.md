@@ -1,10 +1,10 @@
 Printshield v1.0 for Arduino printbots
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Printshield v1.0 for Arduino printbots [Git repo]  by carlosgs , published Jul 18, 2012
 
-![Image](img/Printshield_funcionando_display_large.jpg "Title")
+![Image](img/Printshield_funcionando_display_large.jpg)
 
 Description
 --------
@@ -53,12 +53,12 @@ Files
 
 Pictures
 --------
-![Image](img/Printshield_specs_eng_display_large.jpg "Title")
-![Image](img/soldaduras_placa_printshield_display_large.jpg "Title")
-![Image](img/Printshield_front-LDR_detail_no_ultrasonic_display_large.jpg "Title")
-![Image](img/Printshield_top-LDR_detail_no_ultrasonic_display_large.jpg "Title")
-![Image](img/Printshield_front-LDR_detail_with_ultrasonic_display_large.jpg "Title")
-![Image](img/Printshield_lateral-LDR_detail_with_ultrasonic_display_large.jpg "Title")
+![Image](img/Printshield_specs_eng_display_large.jpg)
+![Image](img/soldaduras_placa_printshield_display_large.jpg)
+![Image](img/Printshield_front-LDR_detail_no_ultrasonic_display_large.jpg)
+![Image](img/Printshield_top-LDR_detail_no_ultrasonic_display_large.jpg)
+![Image](img/Printshield_front-LDR_detail_with_ultrasonic_display_large.jpg)
+![Image](img/Printshield_lateral-LDR_detail_with_ultrasonic_display_large.jpg)
 
 
 Tags

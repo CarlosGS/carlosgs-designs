@@ -1,10 +1,10 @@
 ArduSkyBot v1.0, an open source educational printbot
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 ArduSkyBot v1.0, an open source educational printbot [Git repo]  by carlosgs , published Jul 18, 2012
 
-![Image](img/ArduSkyBot_hand_display_large.jpg "Title")
+![Image](img/ArduSkyBot_hand_display_large.jpg)
 
 Description
 --------
@@ -46,15 +46,15 @@ Files
 
 Pictures
 --------
-![Image](img/ArduSkyBot_display_large.jpg "Title")
-![Image](img/ArduSkyBot_top_display_large.jpg "Title")
-![Image](img/ArduSkyBot_bottom_display_large.jpg "Title")
-![Image](img/ArduSkyBot_back_display_large.jpg "Title")
-![Image](img/ArduSkyBot_detail_speaker_display_large.jpg "Title")
-![Image](img/MiniSkyBot_Servo-wheel-4-arm-horn_display_large.jpg "Title")
-![Image](img/ArduSkyBot_light_display_large.jpg "Title")
-![Image](img/ArduSkyBot_line_follower_display_large.jpg "Title")
-![Image](img/ArduSkyBot_music_display_large.jpg "Title")
+![Image](img/ArduSkyBot_display_large.jpg)
+![Image](img/ArduSkyBot_top_display_large.jpg)
+![Image](img/ArduSkyBot_bottom_display_large.jpg)
+![Image](img/ArduSkyBot_back_display_large.jpg)
+![Image](img/ArduSkyBot_detail_speaker_display_large.jpg)
+![Image](img/MiniSkyBot_Servo-wheel-4-arm-horn_display_large.jpg)
+![Image](img/ArduSkyBot_light_display_large.jpg)
+![Image](img/ArduSkyBot_line_follower_display_large.jpg)
+![Image](img/ArduSkyBot_music_display_large.jpg)
 
 
 Tags

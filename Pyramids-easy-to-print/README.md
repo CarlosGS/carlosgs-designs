@@ -1,10 +1,10 @@
 Pyramids (easy to print)
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 [Parametric] Pyramids (easy to print)  by carlosgs , published Feb 12, 2013
 
-![Image](img/Pyramid_isosceles_display_large.jpg "Title")
+![Image](img/Pyramid_isosceles_display_large.jpg)
 
 Description
 --------
@@ -42,11 +42,11 @@ Files
 
 Pictures
 --------
-![Image](img/2013-02-12_22.10.58_display_large.jpg "Title")
-![Image](img/Pyramid_equilateral_display_large.jpg "Title")
-![Image](img/2013-02-12_23.39.58_display_large.jpg "Title")
-![Image](img/Pyramid_equilateral_x6_display_large.jpg "Title")
-![Image](img/2013-02-13_00.31.02_display_large.jpg "Title")
+![Image](img/2013-02-12_22.10.58_display_large.jpg)
+![Image](img/Pyramid_equilateral_display_large.jpg)
+![Image](img/2013-02-12_23.39.58_display_large.jpg)
+![Image](img/Pyramid_equilateral_x6_display_large.jpg)
+![Image](img/2013-02-13_00.31.02_display_large.jpg)
 
 
 Tags

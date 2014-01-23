@@ -1,14 +1,14 @@
 Vector-9000, a fast line follower robot
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Vector-9000, a fast line follower robot  by carlosgs , published Mar 23, 2013
 
-![Image](img/Vector-9000_front_display_large.jpg "Title")
+![Image](img/Vector-9000_front_display_large.jpg)
 
 Description
 --------
-By Carlosgs and VÃÂÃÂ­ctor Uceda.<br />
+By Carlosgs and Vctor Uceda.<br />
 <br />
 This robot was designed and built two weeks ahead the Cosmobot competition (http://www.roboticspot.com/cosmobot/).<br />
 
@@ -66,20 +66,20 @@ Files
 
 Pictures
 --------
-![Image](img/Vector-9000_bottom_display_large.jpg "Title")
-![Image](img/2013-02-26_22.16.50_display_large.jpg "Title")
-![Image](img/2013-02-26_22.17.25_display_large.jpg "Title")
-![Image](img/2013-02-27_16.29.50_display_large.jpg "Title")
-![Image](img/2013-03-03_20.50.18_display_large.jpg "Title")
-![Image](img/2013-02-26_20.56.52_display_large.jpg "Title")
-![Image](img/2013-02-26_20.07.10_display_large.jpg "Title")
-![Image](img/2013-02-26_18.14.16_display_large.jpg "Title")
-![Image](img/Chasis_display_large.jpg "Title")
-![Image](img/NuevaCover_display_large.jpg "Title")
-![Image](img/CubiertaCarcasa_display_large.jpg "Title")
-![Image](img/CubiertaPololu_display_large.jpg "Title")
-![Image](img/TercerApoyo_display_large.jpg "Title")
-![Image](img/SoporteLDR_display_large.jpg "Title")
+![Image](img/Vector-9000_bottom_display_large.jpg)
+![Image](img/2013-02-26_22.16.50_display_large.jpg)
+![Image](img/2013-02-26_22.17.25_display_large.jpg)
+![Image](img/2013-02-27_16.29.50_display_large.jpg)
+![Image](img/2013-03-03_20.50.18_display_large.jpg)
+![Image](img/2013-02-26_20.56.52_display_large.jpg)
+![Image](img/2013-02-26_20.07.10_display_large.jpg)
+![Image](img/2013-02-26_18.14.16_display_large.jpg)
+![Image](img/Chasis_display_large.jpg)
+![Image](img/NuevaCover_display_large.jpg)
+![Image](img/CubiertaCarcasa_display_large.jpg)
+![Image](img/CubiertaPololu_display_large.jpg)
+![Image](img/TercerApoyo_display_large.jpg)
+![Image](img/SoporteLDR_display_large.jpg)
 
 
 Tags

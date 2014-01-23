@@ -1,10 +1,10 @@
 CNY70 sensor array for printbots
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 CNY70 sensor array for printbots [Git repo]  by carlosgs , published Jul 18, 2012
 
-![Image](img/2012-05-19_15.34.21_display_large.jpg "Title")
+![Image](img/2012-05-19_15.34.21_display_large.jpg)
 
 Description
 --------
@@ -32,9 +32,9 @@ Files
 
 Pictures
 --------
-![Image](img/Sensores_CNY70_display_large.jpg "Title")
-![Image](img/schematic_display_large.jpg "Title")
-![Image](img/board_display_large.jpg "Title")
+![Image](img/Sensores_CNY70_display_large.jpg)
+![Image](img/schematic_display_large.jpg)
+![Image](img/board_display_large.jpg)
 
 
 Tags

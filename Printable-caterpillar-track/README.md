@@ -1,10 +1,10 @@
 Printable caterpillar track
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Printable caterpillar track  by carlosgs , published Dec 8, 2012
 
-![Image](img/2012-12-08_18.36.07_display_large.jpg "Title")
+![Image](img/2012-12-08_18.36.07_display_large.jpg)
 
 Description
 --------
@@ -55,19 +55,19 @@ Files
 
 Pictures
 --------
-![Image](img/2012-12-09_00.33.16_display_large.jpg "Title")
-![Image](img/2012-12-09_00.34.16_display_large.jpg "Title")
-![Image](img/2012-12-09_00.34.29_display_large.jpg "Title")
-![Image](img/2012-12-09_00.34.42_display_large.jpg "Title")
-![Image](img/2012-12-09_00.34.56_display_large.jpg "Title")
-![Image](img/2012-12-09_11.12.26_display_large.jpg "Title")
-![Image](img/2012-12-09_11.12.33_display_large.jpg "Title")
-![Image](img/2012-12-09_18.28.28_display_large.jpg "Title")
-![Image](img/2012-12-09_18.30.04_display_large.jpg "Title")
-![Image](img/2012-12-09_18.28.58_display_large.jpg "Title")
-![Image](img/Caterpillar_track_1.1_display_large.jpg "Title")
-![Image](img/chassis_display_large.jpg "Title")
-![Image](img/wheel_1.1_display_large.jpg "Title")
+![Image](img/2012-12-09_00.33.16_display_large.jpg)
+![Image](img/2012-12-09_00.34.16_display_large.jpg)
+![Image](img/2012-12-09_00.34.29_display_large.jpg)
+![Image](img/2012-12-09_00.34.42_display_large.jpg)
+![Image](img/2012-12-09_00.34.56_display_large.jpg)
+![Image](img/2012-12-09_11.12.26_display_large.jpg)
+![Image](img/2012-12-09_11.12.33_display_large.jpg)
+![Image](img/2012-12-09_18.28.28_display_large.jpg)
+![Image](img/2012-12-09_18.30.04_display_large.jpg)
+![Image](img/2012-12-09_18.28.58_display_large.jpg)
+![Image](img/Caterpillar_track_1.1_display_large.jpg)
+![Image](img/chassis_display_large.jpg)
+![Image](img/wheel_1.1_display_large.jpg)
 
 
 Tags

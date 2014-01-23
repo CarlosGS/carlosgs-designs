@@ -1,10 +1,10 @@
 Printed Micro-Hexapod (Plate and code)
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Printed Micro-Hexapod (Plate and code)  by carlosgs , published Nov 17, 2012
 
-![Image](img/2012-11-17_18.27.49_display_large.jpg "Title")
+![Image](img/2012-11-17_18.27.49_display_large.jpg)
 
 Description
 --------
@@ -41,9 +41,9 @@ Files
 
 Pictures
 --------
-![Image](img/body_display_large.jpg "Title")
-![Image](img/legs_display_large.jpg "Title")
-![Image](img/2012-11-17_20.19.15_display_large.jpg "Title")
+![Image](img/body_display_large.jpg)
+![Image](img/legs_display_large.jpg)
+![Image](img/2012-11-17_20.19.15_display_large.jpg)
 
 
 Tags

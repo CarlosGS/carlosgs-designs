@@ -1,10 +1,10 @@
 Canon EOS 350D model
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Canon EOS 350D model  by carlosgs , published Jun 21, 2012
 
-![Image](img/Canon350DbasicbyALX_fixed_display_large.jpg "Title")
+![Image](img/Canon350DbasicbyALX_fixed_display_large.jpg)
 
 Description
 --------
@@ -18,7 +18,7 @@ Instructions
 3) If you have good drawing hand try to paint the letters so it looks more real :)<br />
 <br />
 <br />
-Thanks to ALX for the original desing and to Juan GonzÃÂ¡lez GÃÂ³mez who helped slicing the parts.<br />
+Thanks to ALX for the original desing and to Juan Gonzlez Gmez who helped slicing the parts.<br />
 <br />
 Printed on a custom Printrbot :)<br />
 <br />
@@ -48,15 +48,15 @@ Files
 
 Pictures
 --------
-![Image](img/4_lens_fixed_display_large.jpg "Title")
-![Image](img/3_lens_fixed_display_large.jpg "Title")
-![Image](img/2012-06-21_22.47.29_display_large.jpg "Title")
-![Image](img/2012-06-21_22.47.45_display_large.jpg "Title")
-![Image](img/2012-06-21_22.48.22_display_large.jpg "Title")
-![Image](img/2012-06-21_19.32.34_display_large.jpg "Title")
-![Image](img/2_body_fixed_display_large.jpg "Title")
-![Image](img/1_body_fixed_display_large.jpg "Title")
-![Image](img/2012-06-21_18.29.00_display_large.jpg "Title")
+![Image](img/4_lens_fixed_display_large.jpg)
+![Image](img/3_lens_fixed_display_large.jpg)
+![Image](img/2012-06-21_22.47.29_display_large.jpg)
+![Image](img/2012-06-21_22.47.45_display_large.jpg)
+![Image](img/2012-06-21_22.48.22_display_large.jpg)
+![Image](img/2012-06-21_19.32.34_display_large.jpg)
+![Image](img/2_body_fixed_display_large.jpg)
+![Image](img/1_body_fixed_display_large.jpg)
+![Image](img/2012-06-21_18.29.00_display_large.jpg)
 
 
 Tags

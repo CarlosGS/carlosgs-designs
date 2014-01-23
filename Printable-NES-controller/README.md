@@ -1,10 +1,10 @@
 Printable NES controller
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Printable NES controller  by carlosgs , published May 5, 2012
 
-![Image](img/controller3D_fixed_display_large.jpg "Title")
+![Image](img/controller3D_fixed_display_large.jpg)
 
 Description
 --------
@@ -46,13 +46,13 @@ Files
 
 Pictures
 --------
-![Image](img/start_display_large.jpg "Title")
-![Image](img/NES-controller_display_large.jpg "Title")
-![Image](img/test_display_large.jpg "Title")
-![Image](img/result_display_large.jpg "Title")
-![Image](img/A_display_large.jpg "Title")
-![Image](img/cross_upside_down_display_large.jpg "Title")
-![Image](img/NES_sticker_display_large.jpg "Title")
+![Image](img/start_display_large.jpg)
+![Image](img/NES-controller_display_large.jpg)
+![Image](img/test_display_large.jpg)
+![Image](img/result_display_large.jpg)
+![Image](img/A_display_large.jpg)
+![Image](img/cross_upside_down_display_large.jpg)
+![Image](img/NES_sticker_display_large.jpg)
 
 
 Tags

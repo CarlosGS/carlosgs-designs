@@ -1,10 +1,10 @@
 Unicorn keychain
 ===============
-**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Some already have [their own GitHub page!](https://github.com/carlosgs?tab=repositories) Make sure to check for the current license and authorship.**  
+**Please note: This thing is part of a list that was [automatically generated](https://github.com/carlosgs/export-things) and may have been updated since then. Make sure to check for the current license and authorship.**  
 
 Unicorn keychain  by carlosgs , published Mar 8, 2012
 
-![Image](img/unicorn_display_large.jpg "Title")
+![Image](img/unicorn_display_large.jpg)
 
 Description
 --------
@@ -28,10 +28,10 @@ Files
 
 Pictures
 --------
-![Image](img/2012-03-08_12.25.44_display_large.jpg "Title")
-![Image](img/2012-03-08_12.10.49_display_large.jpg "Title")
-![Image](img/2012-03-08_11.57.38_display_large.jpg "Title")
-![Image](img/2012-05-13_22.28.33_display_large.jpg "Title")
+![Image](img/2012-03-08_12.25.44_display_large.jpg)
+![Image](img/2012-03-08_12.10.49_display_large.jpg)
+![Image](img/2012-03-08_11.57.38_display_large.jpg)
+![Image](img/2012-05-13_22.28.33_display_large.jpg)
 
 
 Tags
