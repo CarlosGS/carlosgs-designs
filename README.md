@@ -116,4 +116,3 @@ Please check the individual pages for each design
 
 By: Carlos Garcia Saura (carlosgs)
 --------
-<http://carlosgs.es/>
