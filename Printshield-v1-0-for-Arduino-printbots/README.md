@@ -75,4 +75,3 @@ Printshield v1.0 for Arduino printbots [Git repo] by carlosgs is licensed under 
 
 By: Carlos Garcia Saura (carlosgs)
 --------
-<http://carlosgs.es/>
